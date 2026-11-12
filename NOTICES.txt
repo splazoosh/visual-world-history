@@ -38,7 +38,7 @@ that Wikidata lacks. Each is cited with its page; copyright stays with the publi
 GODOT ENGINE
 ========================================================================
 
-This site runs on Godot Engine 4.6.2, https://godotengine.org
+This site runs on Godot Engine 4.7.2, https://godotengine.org
 
 Copyright (c) 2014-present Godot Engine contributors (see AUTHORS.md).
 Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
@@ -84,10 +84,6 @@ COMPONENTS BUNDLED WITH GODOT ENGINE
 
 The engine's full list. A Web build compiles in only part of it.
 
-Godot Engine logo
-  Copyright (c) 2017, Andrea Calabró
-  License: CC-BY-4.0
-
 Bullet Continuous Collision Detection and Physics Library
   Copyright (c) 2011, Ole Kniemeyer, MAXON, www.maxon.net
   Copyright (c) 2014-present, Godot Engine contributors
@@ -105,6 +101,10 @@ Bullet Continuous Collision Detection and Physics Library
 Linux AppStream Metadata File
   Copyright (c) 2017-2022, Rémi Verschelde
   License: CC0-1.0
+
+Godot Engine logo
+  Copyright (c) 2017, Andrea Calabró
+  License: CC-BY-4.0
 
 Betsy
   Copyright (c) 2020-2022, Matias N. Goldberg
@@ -265,6 +265,10 @@ The FreeType Project
   Copyright (c) 1996-2025, David Turner, Robert Wilhelm, and Werner Lemberg.
   License: FTL
 
+GamepadMotionHelpers
+  Copyright (c) 2020-2023, Julian "Jibb" Smart
+  License: Expat
+
 glad
   Copyright (c) 2013-2022, David Herberth
   Copyright (c) 2013-2020, The Khronos Group Inc.
@@ -355,8 +359,12 @@ Mbed TLS
   License: Apache-2.0
 
 meshoptimizer
-  Copyright (c) 2016-2024, Arseny Kapoulkine
+  Copyright (c) 2016-2026, Arseny Kapoulkine
   License: Expat
+
+metal-cpp
+  Copyright (c) 2024, Apple Inc.
+  License: Apache-2.0
 
 mingw-std-threads
   Copyright (c) 2016, Mega Limited
@@ -367,7 +375,7 @@ MiniUPnP Project
   License: BSD-3-clause
 
 MiniZip
-  Copyright (c) 1998-2010, Gilles Vollant
+  Copyright (c) 1998-2026, Gilles Vollant
   Copyright (c) 2007-2008, Even Rouault
   Copyright (c) 2009-2010, Mathias Svensson
   License: Zlib
@@ -469,6 +477,10 @@ SPIRV-Cross
   Copyright (c) 2015-2021, Arm Limited
   License: Apache-2.0 or Expat
 
+SPIRV-Headers
+  Copyright (c) 2015-2024, The Khronos Group Inc.
+  License: Expat
+
 SPIRV-Reflect
   Copyright (c) 2017-2022, Google Inc.
   License: Apache-2.0
@@ -478,7 +490,7 @@ Swappy
   License: Apache-2.0
 
 ThorVG
-  Copyright (c) 2020-2024, The ThorVG Project
+  Copyright (c) 2020-2026, The ThorVG Project
   License: Expat
 
 TinyEXR
@@ -496,17 +508,17 @@ V-HACD
   License: BSD-3-clause
 
 volk
-  Copyright (c) 2018-2024, Arseny Kapoulkine
+  Copyright (c) 2018-2025, Arseny Kapoulkine
   License: Expat
 
 Vulkan Headers
-  Copyright (c) 2014-2024, The Khronos Group Inc.
-  Copyright (c) 2014-2024, Valve Corporation
-  Copyright (c) 2014-2024, LunarG, Inc.
+  Copyright (c) 2015-2025, The Khronos Group Inc.
+  Copyright (c) 2015-2025, Valve Corporation
+  Copyright (c) 2015-2025, LunarG, Inc.
   License: Apache-2.0
 
 Vulkan Memory Allocator
-  Copyright (c) 2017-2024, Advanced Micro Devices, Inc.
+  Copyright (c) 2017-2025, Advanced Micro Devices, Inc.
   License: Expat
 
 Wayland core protocol
@@ -543,7 +555,7 @@ xatlas
   License: Expat
 
 zlib
-  Copyright (c) 1995-2025, Jean-loup Gailly and Mark Adler
+  Copyright (c) 1995-2026, Jean-loup Gailly and Mark Adler
   License: Zlib
 
 Zstandard
