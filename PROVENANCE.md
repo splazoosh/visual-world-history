@@ -12,18 +12,19 @@ is the application's data pack; the rows after the first table are its contents.
 | Population to 2015 (73 frames) | Modified from: C.G.M. Klein Goldewijk, 2017, "Anthropogenic land-use estimates for the Holocene; HYDE 3.2", https://doi.org/10.17026/DANS-25G-GEZ3, DANS Data Station Archaeology, V2, UNF:6:awlkxWQCVLO/LImWDWVc8Q== [fileUNF] | Creative Commons Attribution 3.0 (conservative treatment of deposited README; the DANS record says CC0-1.0) |
 | Population 1975–2025 (11 frames) | Modified from: Schiavina, Marcello; Freire, Sergio; Alessandra Carioli; MacManus, Kytt (2026): GHS-POP R2023A - GHS population grid multitemporal (1975-2030). European Commission, Joint Research Centre [Dataset] doi: 10.2905/JRC.CXKEDRR; 10.2905/2FF68A52-5B5B-4A22-8F40-C41DA8332CFE PID: http://data.europa.eu/89h/2ff68a52-5b5b-4a22-8f40-c41da8332cfe | Creative Commons Attribution 4.0 |
 | Base map | Blue Marble: Next Generation, May 2004, Reto Stöckli, NASA Earth Observatory | US federal government work; credit NASA Earth Observatory |
-| Marker facts (244) | Wikidata, one item per marker at the revision recorded in the pack | CC0 1.0 |
-| Marker texts (244) | English Wikipedia, modified: listed below | CC BY-SA 4.0 |
-| Marker images (241) | Wikimedia Commons, reduced in size: listed below | Per file, listed below |
-| Dates and quotations from second sources (23) | Listed below | Short quotations; copyright stays with each publisher |
+| Marker facts (318) | Wikidata, one item per marker at the revision recorded in the pack | CC0 1.0 |
+| Marker texts (318) | English Wikipedia, modified: listed below | CC BY-SA 4.0 |
+| Marker images (315) | Wikimedia Commons, reduced in size: listed below | Per file, listed below |
+| Dates and quotations from second sources (28) | Listed below | Short quotations; copyright stays with each publisher |
 
 Modified data: spatially aggregated, clipped where described, converted from people per source cell to people/km², cast to float32, gzip-compressed, and accompanied by a separate state channel.
 
-## Marker images (241)
+## Marker images (315)
 
 | Marker | File | Author | Licence |
 |---|---|---|---|
 | 1883 eruption of Krakatoa | [De uitbarsting van de Krakatau, KITLV 5888.tiff](https://commons.wikimedia.org/wiki/File:De_uitbarsting_van_de_Krakatau,_KITLV_5888.tiff) | Anonymous | Public domain |
+| 1953 British Mount Everest Expedition | [Everest kalapatthar.jpg](https://commons.wikimedia.org/wiki/File:Everest_kalapatthar.jpg) | Pavel Novak | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) |
 | Abbasid Caliphate | [Abbasid Caliphate-ar.png](https://commons.wikimedia.org/wiki/File:Abbasid_Caliphate-ar.png) | Bassem Fleifel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Abu Simbel | [Großer Tempel (Abu Simbel) 31.jpg](https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_31.jpg) | Olaf Tausch | Public domain |
 | Achaemenid Empire | [Achaemenid Empire 500 BC.png](https://commons.wikimedia.org/wiki/File:Achaemenid_Empire_500_BC.png) | Cattette | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
@@ -31,6 +32,7 @@ Modified data: spatially aggregated, clipped where described, converted from peo
 | Addis Ababa | [AddisView.jpg](https://commons.wikimedia.org/wiki/File:AddisView.jpg) | DaneyWiki | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Ajuuraan state | [Ajuuraan2.png](https://commons.wikimedia.org/wiki/File:Ajuuraan2.png) | Runehelmet | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Akkadian Empire | [Empire akkad.svg](https://commons.wikimedia.org/wiki/File:Empire_akkad.svg) | Middle_East_topographic_map-blank.svg : Sémhur ( talk ) derivative work: Zunkir ( talk ) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Amundsen's South Pole expedition | [Nla.pic-an23814300.jpeg](https://commons.wikimedia.org/wiki/File:Nla.pic-an23814300.jpeg) | one of Amundsen's five-man polar party | Public domain |
 | Ancient Egypt | [Egypt.Giza.Sphinx.02 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Egypt.Giza.Sphinx.02_(cropped).jpg) | Most likely Hamish2k, the first uploader | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | Angkor Wat | [Angkor wat temple.jpg](https://commons.wikimedia.org/wiki/File:Angkor_wat_temple.jpg) | The original uploader was Fuzheado at English Wikipedia . | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
 | Antioch | [Antiochia su Oronte.PNG](https://commons.wikimedia.org/wiki/File:Antiochia_su_Oronte.PNG) | Cristiano64 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
@@ -40,6 +42,7 @@ Modified data: spatially aggregated, clipped where described, converted from peo
 | Athens | [Akropolis 2015.jpg](https://commons.wikimedia.org/wiki/File:Akropolis_2015.jpg) | Thomas Wolf , www.foto-tw.de | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) |
 | Attack on Pearl Harbor | [USS SHAW exploding Pearl Harbor Nara 80-G-16871 2.jpg](https://commons.wikimedia.org/wiki/File:USS_SHAW_exploding_Pearl_Harbor_Nara_80-G-16871_2.jpg) | Unknown navy photographer | Public domain |
 | Auckland | [Auckland CBD.jpg](https://commons.wikimedia.org/wiki/File:Auckland_CBD.jpg) | ChewyPineapple | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Auschwitz | [Birkenau múzeum - panoramio (cropped).jpg](https://commons.wikimedia.org/wiki/File:Birkenau_m%C3%BAzeum_-_panoramio_(cropped).jpg) | pzk net | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | Aztec Empire | [Aztec Empire (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Aztec_Empire_(orthographic_projection).svg) | File:Provincias tributarias de la Triple Alianza (s. XVI).svg : Yavidaxiu File:Mexico (orthographic projection).svg : Ssolbergj Derivative work : Keepscases | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Babylon | [DSC 0658-Recovered.jpg](https://commons.wikimedia.org/wiki/File:DSC_0658-Recovered.jpg) | Mohamm3dfadil | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Babylonia | [Hammurabi's Babylonia 1.svg](https://commons.wikimedia.org/wiki/File:Hammurabi%27s_Babylonia_1.svg) | MapMaster | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -48,29 +51,45 @@ Modified data: spatially aggregated, clipped where described, converted from peo
 | Battle of Adwa | [COLLECTIE TROPENMUSEUM De slag bij Adua TMnr 5956-2.jpg](https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_De_slag_bij_Adua_TMnr_5956-2.jpg) | Collectie Wereldmuseum (v/h Tropenmuseum), part of the National Museum of World Cultures | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Battle of Ain Jalut | [Campaign of the Battle of Ain Jalut 1260.svg](https://commons.wikimedia.org/wiki/File:Campaign_of_the_Battle_of_Ain_Jalut_1260.svg) | MapMaster | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | Battle of Ayacucho | [Batalla de Ayacucho by Martín Tovar y Tovar (1827 - 1902).jpg](https://commons.wikimedia.org/wiki/File:Batalla_de_Ayacucho_by_Mart%C3%ADn_Tovar_y_Tovar_(1827_-_1902).jpg) | Martín Tovar y Tovar | Public domain |
+| Battle of Borodino | [Borodino-Desarno-Large.jpg](https://commons.wikimedia.org/wiki/File:Borodino-Desarno-Large.jpg) | Auguste-Joseph Desarnot | Public domain |
 | Battle of Boyacá | [Batalla de Boyaca de Martin Tovar y Tovar.jpg](https://commons.wikimedia.org/wiki/File:Batalla_de_Boyaca_de_Martin_Tovar_y_Tovar.jpg) | Martin Tovar y Tovar | Public domain |
 | Battle of Cajamarca | [La Captura de Atahualpa - Juan Lepiani 1920s.png](https://commons.wikimedia.org/wiki/File:La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png) | Juan Lepiani | Public domain |
 | Battle of Gaugamela | [Battle of Gaugamela.jpg](https://commons.wikimedia.org/wiki/File:Battle_of_Gaugamela.jpg) | Jan Brueghel the Elder | Public domain |
 | Battle of Gettysburg | [Thure de Thulstrup - L. Prang and Co. - Battle of Gettysburg - Restoration by Adam Cuerden.jpg](https://commons.wikimedia.org/wiki/File:Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg) | Thure de Thulstrup / Adam Cuerden | Public domain |
+| Battle of Grunwald | [Grunwald Witold.jpg](https://commons.wikimedia.org/wiki/File:Grunwald_Witold.jpg) | Jan Matejko | Public domain |
+| Battle of Hafrsfjord | [Ole Peter Hansen Balling Harald Hårfagre i slaget ved Hafrsfjord.jpg](https://commons.wikimedia.org/wiki/File:Ole_Peter_Hansen_Balling_Harald_H%C3%A5rfagre_i_slaget_ved_Hafrsfjord.jpg) | Hansen 'Ole Peter' Balling | Public domain |
 | Battle of Hastings | [Bayeux Tapestry scene57 Harold death.jpg](https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene57_Harold_death.jpg) | Myrabella | Public domain |
 | Battle of Isandlwana | [Isandlwana.jpg](https://commons.wikimedia.org/wiki/File:Isandlwana.jpg) | After John Charles Dollman | Public domain |
 | Battle of Kadesh | [Ramses II at Kadesh.jpg](https://commons.wikimedia.org/wiki/File:Ramses_II_at_Kadesh.jpg) | — | Public domain |
+| Battle of Kosovo | [Battle of Kosovo, Adam Stefanović, 1870.jpg](https://commons.wikimedia.org/wiki/File:Battle_of_Kosovo,_Adam_Stefanovi%C4%87,_1870.jpg) | Adam Stefanović | Public domain |
+| Battle of Kulikovo | [Kulikovo lubok.jpg](https://commons.wikimedia.org/wiki/File:Kulikovo_lubok.jpg) | Ivan Blinov | Public domain |
+| Battle of Kursk | [Soviet troops and T-34 tanks counterattacking Kursk Voronezh Front July 1943.jpg](https://commons.wikimedia.org/wiki/File:Soviet_troops_and_T-34_tanks_counterattacking_Kursk_Voronezh_Front_July_1943.jpg) | Red Army photographer? | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
 | Battle of Lepanto | [Battle of Lepanto 1571.jpg](https://commons.wikimedia.org/wiki/File:Battle_of_Lepanto_1571.jpg) | Unidentified painter | Public domain |
 | Battle of Marathon | [Scene of the Battle of Marathon.jpg](https://commons.wikimedia.org/wiki/File:Scene_of_the_Battle_of_Marathon.jpg) | John Steeple Davis | Public domain |
+| Battle of Mohács | [Than Mór Mohácsi csata.jpg](https://commons.wikimedia.org/wiki/File:Than_M%C3%B3r_Moh%C3%A1csi_csata.jpg) | Mór Than | Public domain |
+| Battle of Narva | [Narva (Gustaf Cederström) - Nationalmuseum - 18638.tif](https://commons.wikimedia.org/wiki/File:Narva_(Gustaf_Cederstr%C3%B6m)_-_Nationalmuseum_-_18638.tif) | Gustaf Cederström | Public domain |
 | Battle of Plassey | [Lord Clive meeting with Mir Jafar after the Battle of Plassey.jpg](https://commons.wikimedia.org/wiki/File:Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg) | Francis Hayman | Public domain |
+| Battle of Poltava | [Marten's Poltava.jpg](https://commons.wikimedia.org/wiki/File:Marten%27s_Poltava.jpg) | Pierre-Denis Martin | Public domain |
 | Battle of Red Cliffs | [Chibi.jpg](https://commons.wikimedia.org/wiki/File:Chibi.jpg) | User Jie on en.wikipedia | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | Battle of Stalingrad | [Liberation of Stalingrad by Abram Krichevsky (ID 32407906).jpg](https://commons.wikimedia.org/wiki/File:Liberation_of_Stalingrad_by_Abram_Krichevsky_(ID_32407906).jpg) | Abram Krichevsky (Q4241405) / TASS (Q223799) | Public domain |
+| Battle of Stiklestad | [Stiklestad.jpeg](https://commons.wikimedia.org/wiki/File:Stiklestad.jpeg) | Peter Nicolai Arbo | Public domain |
 | Battle of Talas | [Battle of Talas.png](https://commons.wikimedia.org/wiki/File:Battle_of_Talas.png) | SY | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Battle of Tours | [Steuben - Bataille de Poitiers.png](https://commons.wikimedia.org/wiki/File:Steuben_-_Bataille_de_Poitiers.png) | Charles de Steuben | Public domain |
 | Battle of Waterloo | [Battle of Waterloo 1815.PNG](https://commons.wikimedia.org/wiki/File:Battle_of_Waterloo_1815.PNG) | William Sadler | Public domain |
+| Battle of the Alamo | [FalloftheAlamo.jpg](https://commons.wikimedia.org/wiki/File:FalloftheAlamo.jpg) | Robert Jenkins Onderdonk | Public domain |
+| Battle of the Little Bighorn | [Charles Marion Russell - The Custer Fight (1903).jpg](https://commons.wikimedia.org/wiki/File:Charles_Marion_Russell_-_The_Custer_Fight_(1903).jpg) | Charles Marion Russell | Public domain |
 | Battle of the Maureaco Fields | [De Neuville - The Huns at the Battle of Chalons.jpg](https://commons.wikimedia.org/wiki/File:De_Neuville_-_The_Huns_at_the_Battle_of_Chalons.jpg) | Alphonse de Neuville | Public domain |
 | Battle of the Somme | [British Mark I male tank Somme 25 September 1916.jpg](https://commons.wikimedia.org/wiki/File:British_Mark_I_male_tank_Somme_25_September_1916.jpg) | Ernest Brooks | Public domain |
 | Belovezh Accords | [RIAN archive 848095 Signing the Agreement to eliminate the USSR and establish the Commonwealth of Independent States.jpg](https://commons.wikimedia.org/wiki/File:RIAN_archive_848095_Signing_the_Agreement_to_eliminate_the_USSR_and_establish_the_Commonwealth_of_Independent_States.jpg) | U. Ivanov / Ю. Иванов | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Benin Empire | [Benin kingdom Louvre A97-4-1.jpg](https://commons.wikimedia.org/wiki/File:Benin_kingdom_Louvre_A97-4-1.jpg) | Unknown artist | Public domain |
+| Bergen | [00 4400 View over the store Lungegårdsvann - Bergen (Norway).jpg](https://commons.wikimedia.org/wiki/File:00_4400_View_over_the_store_Lungeg%C3%A5rdsvann_-_Bergen_(Norway).jpg) | W. Bulach | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Berlin Conference | [Kongokonferenz.jpg](https://commons.wikimedia.org/wiki/File:Kongokonferenz.jpg) | Adalbert von Roessler | Public domain |
+| Birka and Hovgården | [BirkaExcavation1.png](https://commons.wikimedia.org/wiki/File:BirkaExcavation1.png) | Alex Peterson | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | Bogotá | [Centro internacional.JPG](https://commons.wikimedia.org/wiki/File:Centro_internacional.JPG) | Felipe Restrepo Acosta | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Borobudur Temple | [Borobudur-Nothwest-view.jpg](https://commons.wikimedia.org/wiki/File:Borobudur-Nothwest-view.jpg) | Gunawan Kartapranata | Public domain |
+| Boston | [Boston from the Harbour, Massachusetts (493360) (10772382303).jpg](https://commons.wikimedia.org/wiki/File:Boston_from_the_Harbour,_Massachusetts_(493360)_(10772382303).jpg) | Robert Linsdell from St. Andrews, Canada | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Brasília | [Planalto Central (cropped).jpg](https://commons.wikimedia.org/wiki/File:Planalto_Central_(cropped).jpg) | Arturdiasr | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Bucharest | [Bucharest-Skyline-01.jpg](https://commons.wikimedia.org/wiki/File:Bucharest-Skyline-01.jpg) | seisdeagosto | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
 | Buenos Aires | [Vista aérea de la Plaza del Congreso 10.jpg](https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_la_Plaza_del_Congreso_10.jpg) | ProtoplasmaKid | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Byblos | [Byblos Libanon 2003.JPG](https://commons.wikimedia.org/wiki/File:Byblos_Libanon_2003.JPG) | Orient at de.wikipedia | [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en) |
 | Byzantine Empire | [Eastern Roman Empire 565 CE.svg](https://commons.wikimedia.org/wiki/File:Eastern_Roman_Empire_565_CE.svg) | Mnohohrishnyi | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
@@ -85,10 +104,12 @@ Modified data: spatially aggregated, clipped where described, converted from peo
 | Carthage | [Tunisie Carthage Ruines 08.JPG](https://commons.wikimedia.org/wiki/File:Tunisie_Carthage_Ruines_08.JPG) | Calips | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) |
 | Chavin de Huantar | [Chavin - Août 2007.jpg](https://commons.wikimedia.org/wiki/File:Chavin_-_Ao%C3%BBt_2007.jpg) | Martin St-Amant ( S23678 ) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | Chernobyl disaster | [IAEA 02790015 (5613115146).jpg](https://commons.wikimedia.org/wiki/File:IAEA_02790015_(5613115146).jpg) | IAEA Imagebank | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| Chicago | [Chicago River ferry b.jpg](https://commons.wikimedia.org/wiki/File:Chicago_River_ferry_b.jpg) | File:Chicago River ferry.jpg : John Picken derivative work: Georgfotoart | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Chichen Itza | [Chichen Itza 3.jpg](https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg) | Daniel Schwen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Chimú culture | [Caral Peru.JPG](https://commons.wikimedia.org/wiki/File:Caral_Peru.JPG) | Esteban Cuya | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Church of Saint George | [Lalibela, san giorgio, esterno 24.jpg](https://commons.wikimedia.org/wiki/File:Lalibela,_san_giorgio,_esterno_24.jpg) | Sailko | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | Colosseum | [Colosseo 2020.jpg](https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg) | FeaturedPics | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Confederate States of America | [Confederate States of America (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Confederate_States_of_America_(orthographic_projection).svg) | Keepscases | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Conquest of Mecca | [Muhammad destroying idols - L'Histoire Merveilleuse en Vers de Mahomet BNF.jpg](https://commons.wikimedia.org/wiki/File:Muhammad_destroying_idols_-_L%27Histoire_Merveilleuse_en_Vers_de_Mahomet_BNF.jpg) | Unknown author | Public domain |
 | Constantinople | [Byzantine Constantinople-en.png](https://commons.wikimedia.org/wiki/File:Byzantine_Constantinople-en.png) | Cplakidas | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Copán | [Copán Stela B.jpg](https://commons.wikimedia.org/wiki/File:Cop%C3%A1n_Stela_B.jpg) | Nosferattus | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
@@ -97,8 +118,10 @@ Modified data: spatially aggregated, clipped where described, converted from peo
 | Cuban Missile Crisis | [Soviet-R-12-nuclear-ballistic missile.jpg](https://commons.wikimedia.org/wiki/File:Soviet-R-12-nuclear-ballistic_missile.jpg) | Central Intelligence Agency | Public domain |
 | Cueva de las Manos | [SantaCruz-CuevaManos-P2210651b.jpg](https://commons.wikimedia.org/wiki/File:SantaCruz-CuevaManos-P2210651b.jpg) | Mariano | Public domain |
 | Cusco | [Cusco, Sacsayhuamán - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Cusco,_Sacsayhuam%C3%A1n_-_panoramio.jpg) | gertrudis2010 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Dacia | [Sarmizegetusa Regia 2011 2.jpg](https://commons.wikimedia.org/wiki/File:Sarmizegetusa_Regia_2011_2.jpg) | TudorTulok | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Damascus | [Azm Palace and Umayyad Mosque.jpg](https://commons.wikimedia.org/wiki/File:Azm_Palace_and_Umayyad_Mosque.jpg) | Bassel Khabbaz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Delhi | [Jama Masjid 2011.jpg](https://commons.wikimedia.org/wiki/File:Jama_Masjid_2011.jpg) | Marcin Białek | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Denmark–Norway | [Denmark-Norway in 1780.svg](https://commons.wikimedia.org/wiki/File:Denmark-Norway_in_1780.svg) | User:Derfel73 User:cthuljew User:Kasper_Holl | Public domain |
 | Destruction of opium at Humen | [Destruction of opium in 1839.jpg](https://commons.wikimedia.org/wiki/File:Destruction_of_opium_in_1839.jpg) | Chinese artist | Public domain |
 | Diet of Worms | [Лютер в Вормсе.jpg](https://commons.wikimedia.org/wiki/File:%D0%9B%D1%8E%D1%82%D0%B5%D1%80_%D0%B2_%D0%92%D0%BE%D1%80%D0%BC%D1%81%D0%B5.jpg) | Anton von Werner | Public domain |
 | Djenné | [Djenné.jpg](https://commons.wikimedia.org/wiki/File:Djenn%C3%A9.jpg) | Devriese | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
@@ -113,13 +136,18 @@ Modified data: spatially aggregated, clipped where described, converted from peo
 | Fall of Tenochtitlan | [Conquista-de-México-por-Cortés-Tenochtitlan-Painting.png](https://commons.wikimedia.org/wiki/File:Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png) | Unknown author | Public domain |
 | Fatimid Caliphate | [The Fatimid Caliphate.png](https://commons.wikimedia.org/wiki/File:The_Fatimid_Caliphate.png) | Nourerrahmane (using file uploaded by Omar-toons as template) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Fez | [Medina of Fes, Marocco.jpg](https://commons.wikimedia.org/wiki/File:Medina_of_Fes,_Marocco.jpg) | Petar Milošević | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| First Bulgarian Empire | [Southeastern Europe, late 9th century.jpg](https://commons.wikimedia.org/wiki/File:Southeastern_Europe,_late_9th_century.jpg) | Moodylo333 | Public domain |
 | First French Empire | [Jean-Louis-Ernest Meissonier-Campagne de France.jpg](https://commons.wikimedia.org/wiki/File:Jean-Louis-Ernest_Meissonier-Campagne_de_France.jpg) | Jean-Louis-Ernest Meissonier | Public domain |
 | Forbidden City | [Hall of Supreme Harmony (20241127120000).jpg](https://commons.wikimedia.org/wiki/File:Hall_of_Supreme_Harmony_(20241127120000).jpg) | N509FZ | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Fort Jesus Museum | [Fort JesusMombasa.jpg](https://commons.wikimedia.org/wiki/File:Fort_JesusMombasa.jpg) | The original uploader was Zeljko at Croatian Wikipedia . | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| Gdańsk | [Calle Dlugie Pobrzeze, Gdansk, Polonia, 2013-05-20, DD 05.jpg](https://commons.wikimedia.org/wiki/File:Calle_Dlugie_Pobrzeze,_Gdansk,_Polonia,_2013-05-20,_DD_05.jpg) | Diego Delso | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | German Empire | [Reichstagsgebaeude.jpg](https://commons.wikimedia.org/wiki/File:Reichstagsgebaeude.jpg) | Unknown author | Public domain |
 | Ghana Empire | [Ghana reich karte-es.svg](https://commons.wikimedia.org/wiki/File:Ghana_reich_karte-es.svg) | Ghana reich karte.png : Luxo Africa location map.svg : Sting derivative work: Rowanwindwhistler ( talk ) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Golden Horde | [Golden Horde in the Catalan Atlas (1375).jpg](https://commons.wikimedia.org/wiki/File:Golden_Horde_in_the_Catalan_Atlas_(1375).jpg) | Cresques Abraham | Public domain |
 | Gondar | [Gonder from the Goha hotel.jpg](https://commons.wikimedia.org/wiki/File:Gonder_from_the_Goha_hotel.jpg) | Giustino | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Gran Colombia | [Great Colombia (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Great_Colombia_(orthographic_projection).svg) | Keepscases | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Grand Duchy of Lithuania | [Grand Duchy of Lithuania 1430.png](https://commons.wikimedia.org/wiki/File:Grand_Duchy_of_Lithuania_1430.png) | Vaidas V | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Great Moravia | [Great moravia svatopluk datailed.png](https://commons.wikimedia.org/wiki/File:Great_moravia_svatopluk_datailed.png) | Great_moravia_svatopluk.png : Tankred derivative work: Millenium187 ( talk ) | Public domain |
 | Great Mosque of Kairouan | [Grande Mosquée de Kairouan, vue d'ensemble.jpg](https://commons.wikimedia.org/wiki/File:Grande_Mosqu%C3%A9e_de_Kairouan,_vue_d%27ensemble.jpg) | weetoon66 | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
 | Great Pyramid of Giza | [Kheops-Pyramid.jpg](https://commons.wikimedia.org/wiki/File:Kheops-Pyramid.jpg) | Nina | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) |
 | Great Wall of China | [The Great Wall of China at Jinshanling-edit.jpg](https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg) | Severin.stalder | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
@@ -129,28 +157,38 @@ Modified data: spatially aggregated, clipped where described, converted from peo
 | Han dynasty | [Summer Vacation 2007, 263, Watchtower In The Morning Light, Dunhuang, Gansu Province.jpg](https://commons.wikimedia.org/wiki/File:Summer_Vacation_2007,_263,_Watchtower_In_The_Morning_Light,_Dunhuang,_Gansu_Province.jpg) | The Real Bear | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Havana | [Cuba libre (6941395159).jpg](https://commons.wikimedia.org/wiki/File:Cuba_libre_(6941395159).jpg) | Christopher Michel | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Headquarters of the United Nations | [2024-11-18-Headquarters of the United Nations-0605.jpg](https://commons.wikimedia.org/wiki/File:2024-11-18-Headquarters_of_the_United_Nations-0605.jpg) | Superbass | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Hedeby | [Archäologisches Bodendenkmal Haithabu in der Gemeinde Busdorf im Kreis Schleswig-Flensburg in Schleswig-Holstein B1.JPG](https://commons.wikimedia.org/wiki/File:Arch%C3%A4ologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG) | Matthias Böhm | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Helsinki | [Helsinki Lutheran Cathedral (panoraamanäköala)-2 (säätö).jpg](https://commons.wikimedia.org/wiki/File:Helsinki_Lutheran_Cathedral_(panoraaman%C3%A4k%C3%B6ala)-2_(s%C3%A4%C3%A4t%C3%B6).jpg) | Old Pionear | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Holy Roman Empire | [HRR 1789.png](https://commons.wikimedia.org/wiki/File:HRR_1789.png) | ziegelbrenner | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) |
 | Huaca Prieta | [Huaca Prieta-3.jpg](https://commons.wikimedia.org/wiki/File:Huaca_Prieta-3.jpg) | AlisonRuthHughes | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Inca Empire | [80 - Machu Picchu - Juin 2009 - edit.2.jpg](https://commons.wikimedia.org/wiki/File:80_-_Machu_Picchu_-_Juin_2009_-_edit.2.jpg) | Martin St-Amant ( S23678 ) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Jelling stones | [Runesten i Jelling.jpg](https://commons.wikimedia.org/wiki/File:Runesten_i_Jelling.jpg) | Alicudi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Jerusalem | [Dome of the Rock seen from the Mount of Olives (12395649153) (cropped).jpg](https://commons.wikimedia.org/wiki/File:Dome_of_the_Rock_seen_from_the_Mount_of_Olives_(12395649153)_(cropped).jpg) | askii | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
 | Johannesburg | [Johannesburg CBD.jpg](https://commons.wikimedia.org/wiki/File:Johannesburg_CBD.jpg) | Evan Bench | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Joseon | [1894JoseonSeoul.jpg](https://commons.wikimedia.org/wiki/File:1894JoseonSeoul.jpg) | Frank G. Carpenter | Public domain |
+| Kalmar Union | [Kalmar Union ca. 1400.svg](https://commons.wikimedia.org/wiki/File:Kalmar_Union_ca._1400.svg) | Ssolbergj | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Kanem-Bornu Empire | [KanemBornuEmpire-NewMap.png](https://commons.wikimedia.org/wiki/File:KanemBornuEmpire-NewMap.png) | Megartonius | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | Karnak Temple Complex | [Luxor, Egypt, Karnak.jpg](https://commons.wikimedia.org/wiki/File:Luxor,_Egypt,_Karnak.jpg) | Vyacheslav Argenberg | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+| Kazan | [KAZ Collage 2015.png](https://commons.wikimedia.org/wiki/File:KAZ_Collage_2015.png) | A.Savin , Ilya Tsvetkov , Денис Петьовка , NoPlayerUfa , TY-214 , AlexTref871 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Khirokitia | [Khirokitia2.jpg](https://commons.wikimedia.org/wiki/File:Khirokitia2.jpg) | Ophelia2 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Khmer Empire | [Map-of-southeast-asia 900 CE.svg](https://commons.wikimedia.org/wiki/File:Map-of-southeast-asia_900_CE.svg) | Jembezmamy | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | Kievan Rus' | [Location of Kyivan Rus.png](https://commons.wikimedia.org/wiki/File:Location_of_Kyivan_Rus.png) | Vitaliyf261 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Kilwa Kisiwani | [GreatMosque.jpg](https://commons.wikimedia.org/wiki/File:GreatMosque.jpg) | en:user:Claude McNab | Public domain |
 | Kingdom of Aksum | [KingEndybisEthiopia227-235CE.jpg](https://commons.wikimedia.org/wiki/File:KingEndybisEthiopia227-235CE.jpg) | PHGCOM | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| Kingdom of Bohemia | [Locator Bohemia within the Holy Roman Empire (1618).svg](https://commons.wikimedia.org/wiki/File:Locator_Bohemia_within_the_Holy_Roman_Empire_(1618).svg) | Sir Iain This W3C-unspecified vector image was created with Inkscape . | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Kingdom of Hawai‘i | [Hawaii in its region (special marker).svg](https://commons.wikimedia.org/wiki/File:Hawaii_in_its_region_(special_marker).svg) | TUBS | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Kingdom of Hungary | [Kingdom of hungary europe.png](https://commons.wikimedia.org/wiki/File:Kingdom_of_hungary_europe.png) | Bizso | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Kingdom of Italy | [Italian Colonial Empire (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Italian_Colonial_Empire_(orthographic_projection).svg) | TownDown , F l a n k e r | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | Kingdom of Kongo | [Congo by Mercator 1623 (3769167).jpg](https://commons.wikimedia.org/wiki/File:Congo_by_Mercator_1623_(3769167).jpg) | Gerard Mercator | Public domain |
 | Kingdom of Kush | [Nubia NASA-WW places german.jpg](https://commons.wikimedia.org/wiki/File:Nubia_NASA-WW_places_german.jpg) | User Udimu on de.wikipedia | Public domain |
 | Kingdom of Mutapa | [Monomotapa Map.jpg](https://commons.wikimedia.org/wiki/File:Monomotapa_Map.jpg) | Willem Blaeu | Public domain |
 | Kingdom of Numidia | [Western Mediterranean territory, 150 BC.svg](https://commons.wikimedia.org/wiki/File:Western_Mediterranean_territory,_150_BC.svg) | Goran_tek-en | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Kinshasa | [Vue Kinshasa.jpg](https://commons.wikimedia.org/wiki/File:Vue_Kinshasa.jpg) | Garcia-Pavilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Klondike Gold Rush | [Miners register claims.jpg](https://commons.wikimedia.org/wiki/File:Miners_register_claims.jpg) | Eric A. Hegg | Public domain |
 | Knossos | [Knossos - North Portico 02.jpg](https://commons.wikimedia.org/wiki/File:Knossos_-_North_Portico_02.jpg) | Bernard Gagnon | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Korean War | [Korean War Montage 2.png](https://commons.wikimedia.org/wiki/File:Korean_War_Montage_2.png) | All photographs are works of the United States federal government. | Public domain |
+| Kronborg Castle | [KronborgCastle HCS.jpg](https://commons.wikimedia.org/wiki/File:KronborgCastle_HCS.jpg) | H.C. Steensen | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Kujataa | [Tunulliarfik-qassiarsuk.jpg](https://commons.wikimedia.org/wiki/File:Tunulliarfik-qassiarsuk.jpg) | Algkalv ( talk ) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | Kuk Swamp | [Kuk New Guinea 2002.jpg](https://commons.wikimedia.org/wiki/File:Kuk_New_Guinea_2002.jpg) | NASA: JPL | Public domain |
 | L'Anse aux Meadows | [Authentic Viking recreation.jpg](https://commons.wikimedia.org/wiki/File:Authentic_Viking_recreation.jpg) | Dylan Kereluk from White Rock, Canada | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | La Navidad | [Vida y viajes de Cristobal Colón, 1851 Construcción de la fortaleza de La Navidad (3819531625).jpg](https://commons.wikimedia.org/wiki/File:Vida_y_viajes_de_Cristobal_Col%C3%B3n,_1851_Construcci%C3%B3n_de_la_fortaleza_de_La_Navidad_(3819531625).jpg) | Fondo Antiguo de la Biblioteca de la Universidad de Sevilla from Sevilla, España | Public domain |
@@ -158,11 +196,14 @@ Modified data: spatially aggregated, clipped where described, converted from peo
 | La Venta | [La Venta Pirámide cara norte.jpg](https://commons.wikimedia.org/wiki/File:La_Venta_Pir%C3%A1mide_cara_norte.jpg) | Alfonsobouchot | Public domain |
 | Lagos | [Skywater.jpg](https://commons.wikimedia.org/wiki/File:Skywater.jpg) | Ernestblinqz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Leptis Magna | [Leptis Magna (29) (8288918733).jpg](https://commons.wikimedia.org/wiki/File:Leptis_Magna_(29)_(8288918733).jpg) | joepyrek from Richmond, Va, USA | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| Lewis and Clark Expedition | [Lewis and clark-expedition.jpg](https://commons.wikimedia.org/wiki/File:Lewis_and_clark-expedition.jpg) | Charles Marion Russell | Public domain |
 | Lima | [Plaza Mayor de Lima-1.jpg](https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Lima-1.jpg) | JulioKuLu | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | London | [London Skyline (125508655).jpeg](https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg) | Ilya Grigorik | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Los Angeles | [Los Angeles with Mount Baldy.jpg](https://commons.wikimedia.org/wiki/File:Los_Angeles_with_Mount_Baldy.jpg) | Alek Leckszas | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Luanda | [Luanda feb09 ost01.jpg](https://commons.wikimedia.org/wiki/File:Luanda_feb09_ost01.jpg) | Lars Rohwer | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Macedonia | [Map Macedonia 336 BC-en.svg](https://commons.wikimedia.org/wiki/File:Map_Macedonia_336_BC-en.svg) | Map_Macedonia_336_BC-es.svg : Marsyas (French original); Kordas (Spanish translation) derivative work: MinisterForBadTimes ( talk ) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | Machu Picchu | [Machu Picchu, 2023 (012).jpg](https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg) | Draceane | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Magellan-Elcano expedition | [Detail from a map of Ortelius - Magellan's ship Victoria.png](https://commons.wikimedia.org/wiki/File:Detail_from_a_map_of_Ortelius_-_Magellan%27s_ship_Victoria.png) | Abraham Ortelius | Public domain |
 | Mahabodhi Temple | [Mahabodhitemple.jpg](https://commons.wikimedia.org/wiki/File:Mahabodhitemple.jpg) | Bpilgrim | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) |
 | Majapahit | [Majapahit Empire.svg](https://commons.wikimedia.org/wiki/File:Majapahit_Empire.svg) | Gunawan Kartapranata translator: Manlleus (ca) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Mali Empire | [Catalan Atlas BNF Sheet 6 Western Sahara.jpg](https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Western_Sahara.jpg) | attributed to Abraham Cresques | Public domain |
@@ -178,21 +219,26 @@ Modified data: spatially aggregated, clipped where described, converted from peo
 | Mohenjo-daro | [Mohenjodaro - view of the stupa mound.JPG](https://commons.wikimedia.org/wiki/File:Mohenjodaro_-_view_of_the_stupa_mound.JPG) | Saqib Qayyum | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Mongol Empire | [Mongol Empire (greatest extent).svg](https://commons.wikimedia.org/wiki/File:Mongol_Empire_(greatest_extent).svg) | Ali Zifan | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Montevideo | [The City (198895997).jpeg](https://commons.wikimedia.org/wiki/File:The_City_(198895997).jpeg) | Marcelo Campi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Montreal | [Montreal, Quebec skyline.jpg](https://commons.wikimedia.org/wiki/File:Montreal,_Quebec_skyline.jpg) | Quintin Soloviev | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
 | Mughal Empire | [Mughal Empire (1700).png](https://commons.wikimedia.org/wiki/File:Mughal_Empire_(1700).png) | TRAJAN 117 This bitmap image was created with Windows Paint . | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | Mycenae | [Lions-Gate-Mycenae.jpg](https://commons.wikimedia.org/wiki/File:Lions-Gate-Mycenae.jpg) | Andreas Trepte | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) |
 | Nairobi | [Nairobi, view from KICC.JPG](https://commons.wikimedia.org/wiki/File:Nairobi,_view_from_KICC.JPG) | Daryona | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Nan Madol | [Nan madol.jpg](https://commons.wikimedia.org/wiki/File:Nan_madol.jpg) | NOAA | Public domain |
 | Nazca Lines | [Líneas de Nazca, Nazca, Perú, 2015-07-29, DD 58.JPG](https://commons.wikimedia.org/wiki/File:L%C3%ADneas_de_Nazca,_Nazca,_Per%C3%BA,_2015-07-29,_DD_58.JPG) | Diego Delso | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| New Orleans | [New Orleans skyline-02.jpg](https://commons.wikimedia.org/wiki/File:New_Orleans_skyline-02.jpg) | thepipe26 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | New York City | [NYC Downtown Manhattan Skyline seen from Paulus Hook 2019-12-20 IMG 7347 FRD (cropped).jpg](https://commons.wikimedia.org/wiki/File:NYC_Downtown_Manhattan_Skyline_seen_from_Paulus_Hook_2019-12-20_IMG_7347_FRD_(cropped).jpg) | Fred Hsu on en.wikipedia | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Nimrud | [Nimrud 081119-F-5855M-033.jpg](https://commons.wikimedia.org/wiki/File:Nimrud_081119-F-5855M-033.jpg) | Staff Sgt. JoAnn Makinano | Public domain |
 | Normandy landings | [Into the Jaws of Death 23-0455M edit.jpg](https://commons.wikimedia.org/wiki/File:Into_the_Jaws_of_Death_23-0455M_edit.jpg) | Chief Photographer's Mate (CPHoM) Robert F. Sargent | Public domain |
 | October Revolution | [After the capture of the Winter Palace 26 October 1917.jpg](https://commons.wikimedia.org/wiki/File:After_the_capture_of_the_Winter_Palace_26_October_1917.jpg) | Pyotr Novitsky | Public domain |
+| Oslo | [Oslo newer montage 2013.png](https://commons.wikimedia.org/wiki/File:Oslo_newer_montage_2013.png) | Jonipoon | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Ottoman Empire | [Rise of Ottoman empire.png](https://commons.wikimedia.org/wiki/File:Rise_of_Ottoman_empire.png) | User6054 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | Oyo Empire | [Palace of Alaafin of Oyo circa mid-1900s.jpg](https://commons.wikimedia.org/wiki/File:Palace_of_Alaafin_of_Oyo_circa_mid-1900s.jpg) | The African History | Public domain |
 | Panama Canal | [Panama Canal Gatun Locks.jpg](https://commons.wikimedia.org/wiki/File:Panama_Canal_Gatun_Locks.jpg) | User:Stan Shebs | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Paris | [La Tour Eiffel vue de la Tour Saint-Jacques, Paris août 2014 (2).jpg](https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg) | Yann Caradec from Paris, France | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
 | Peace of Westphalia | [Westfaelischer Friede in Muenster (Gerard Terborch 1648).jpg](https://commons.wikimedia.org/wiki/File:Westfaelischer_Friede_in_Muenster_(Gerard_Terborch_1648).jpg) | Gerard ter Borch | Public domain |
 | Persepolis | [Gate of All Nations, Persepolis.jpg](https://commons.wikimedia.org/wiki/File:Gate_of_All_Nations,_Persepolis.jpg) | Alborzagros | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Plymouth Colony | [Plymouth Colony map.svg](https://commons.wikimedia.org/wiki/File:Plymouth_Colony_map.svg) | Hoodinski | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Polish–Lithuanian Commonwealth | [Potęga Rzeczypospolitej u zenitu. Złota wolność. Elekcja R.P. 1573.jpg](https://commons.wikimedia.org/wiki/File:Pot%C4%99ga_Rzeczypospolitej_u_zenitu._Z%C5%82ota_wolno%C5%9B%C4%87._Elekcja_R.P._1573.jpg) | Jan Matejko | Public domain |
 | Potosí | [Vista de la Villa Imperial de Potosí.jpg](https://commons.wikimedia.org/wiki/File:Vista_de_la_Villa_Imperial_de_Potos%C3%AD.jpg) | Parallelepiped09 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Poverty Point | [Mound A at Poverty Point.jpg](https://commons.wikimedia.org/wiki/File:Mound_A_at_Poverty_Point.jpg) | https://www.flickr.com/photos/15308454@N06/ Kniemla | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
 | Ptolemaic Kingdom | [Ptolemaic-Empire 200bc.jpg](https://commons.wikimedia.org/wiki/File:Ptolemaic-Empire_200bc.jpg) | Thomas Lessman ( Contact! ) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
@@ -201,18 +247,30 @@ Modified data: spatially aggregated, clipped where described, converted from peo
 | Qing dynasty | [Ching Dynasty 1892.png](https://commons.wikimedia.org/wiki/File:Ching_Dynasty_1892.png) | Ian Kiu | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | Quebec City | [Buildings and Roads of Old Quebec City 14.jpg](https://commons.wikimedia.org/wiki/File:Buildings_and_Roads_of_Old_Quebec_City_14.jpg) | Fabian Roudra Baroi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Quito | [FACHADA ASAMBLEA NACIONAL. QUITO, 20 DE FEBRERO 2020. 01.jpg](https://commons.wikimedia.org/wiki/File:FACHADA_ASAMBLEA_NACIONAL._QUITO,_20_DE_FEBRERO_2020._01.jpg) | Asamblea Nacional del Ecuador | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| Republic of Texas | [Republic of Texas labeled.svg](https://commons.wikimedia.org/wiki/File:Republic_of_Texas_labeled.svg) | Raymond1922A | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Reykjavík | [Reykjavík 5545 (cropped).JPG](https://commons.wikimedia.org/wiki/File:Reykjav%C3%ADk_5545_(cropped).JPG) | Hedwig Storch | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Ribe | [RibeVue.jpg](https://commons.wikimedia.org/wiki/File:RibeVue.jpg) | Hjart | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Riga | [Vistas desde la iglesia de San Pedro, Riga, Letonia, 2012-08-07, DD 12.JPG](https://commons.wikimedia.org/wiki/File:Vistas_desde_la_iglesia_de_San_Pedro,_Riga,_Letonia,_2012-08-07,_DD_12.JPG) | Diego Delso | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Rio de Janeiro | [Cidade Maravilhosa.jpg](https://commons.wikimedia.org/wiki/File:Cidade_Maravilhosa.jpg) | Rafael Rabello de Barros | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Roman Empire | [Inscription Theatre Leptis Magna Libya.JPG](https://commons.wikimedia.org/wiki/File:Inscription_Theatre_Leptis_Magna_Libya.JPG) | Papageizichta | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Roman Republic | [Republica Romana.svg](https://commons.wikimedia.org/wiki/File:Republica_Romana.svg) | Alvaro qc by the original work of Husar de la Princesa | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) |
 | Rome | [Rome Skyline (8012016319).jpg](https://commons.wikimedia.org/wiki/File:Rome_Skyline_(8012016319).jpg) | Bert Kaufmann from Roermond, Netherlands | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| Roskilde Cathedral | [Roskilde Cathedral aerial crop.jpg](https://commons.wikimedia.org/wiki/File:Roskilde_Cathedral_aerial_crop.jpg) | CucombreLibre from New York, NY, USA | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Russian Empire | [Gorskii 04422u.jpg](https://commons.wikimedia.org/wiki/File:Gorskii_04422u.jpg) | Sergei Prokudin-Gorskii | Public domain |
 | Salvador | [Salvador BA (cropped) 2.jpg](https://commons.wikimedia.org/wiki/File:Salvador_BA_(cropped)_2.jpg) | Fotos Gov/Ba | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | San Agustin archeological park | [Parque Arqueológico de San Agustín-Mesita A 12.jpg](https://commons.wikimedia.org/wiki/File:Parque_Arqueol%C3%B3gico_de_San_Agust%C3%ADn-Mesita_A_12.jpg) | Bernard Gagnon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| San Francisco | [San Francisco from the Marin Headlands in March 2019.jpg](https://commons.wikimedia.org/wiki/File:San_Francisco_from_the_Marin_Headlands_in_March_2019.jpg) | Lightandtruth | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Santa Fe | [Palace of the Governors.jpg](https://commons.wikimedia.org/wiki/File:Palace_of_the_Governors.jpg) | Tony Hisgett from Birmingham, UK | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Santiago | [Santiago de Chile, Desde Cerro San Cristóbal (cropped).jpg](https://commons.wikimedia.org/wiki/File:Santiago_de_Chile,_Desde_Cerro_San_Crist%C3%B3bal_(cropped).jpg) | Omnespsx ( D • ES ) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Santo Domingo | [Santo Domingo (Dominican Republic) taken atop Novocentro tower viewing the city to the southwest 2010.jpg](https://commons.wikimedia.org/wiki/File:Santo_Domingo_(Dominican_Republic)_taken_atop_Novocentro_tower_viewing_the_city_to_the_southwest_2010.jpg) | Jjc09 | Public domain |
 | Sasanian Empire | [The Sasanian Empire at its apex under Khosrow II.svg](https://commons.wikimedia.org/wiki/File:The_Sasanian_Empire_at_its_apex_under_Khosrow_II.svg) | Original file by Ro4444, edited by me | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+| Second Bulgarian Empire | [Bulgaria-Iván Asen2-es.svg](https://commons.wikimedia.org/wiki/File:Bulgaria-Iv%C3%A1n_Asen2-es.svg) | Bulgaria-Iván Asen-es.svg : rowanwindwhistler Болгария во время Ивана Асеня II.jpg : Драган Веселинов Манчов (1834-1908) derivative work: rowanwindwhistler ( talk ) | Public domain |
+| September 11 attacks | [North face south tower after plane strike 9-11.jpg](https://commons.wikimedia.org/wiki/File:North_face_south_tower_after_plane_strike_9-11.jpg) | Robert on Flickr | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
 | Shang dynasty | [Shang dynasty.svg](https://commons.wikimedia.org/wiki/File:Shang_dynasty.svg) | Lamassu Design Gurdjieff ( talk ) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Siege of Jerusalem | [1099jerusalem.jpg](https://commons.wikimedia.org/wiki/File:1099jerusalem.jpg) | Unknown author | Public domain |
+| Siege of Leningrad | [Leningrad Siege May 1942 - January 1943.png](https://commons.wikimedia.org/wiki/File:Leningrad_Siege_May_1942_-_January_1943.png) | Memnon335bc | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Siege of Yorktown | [Surrender of Lord Cornwallis.jpg](https://commons.wikimedia.org/wiki/File:Surrender_of_Lord_Cornwallis.jpg) | John Trumbull | Public domain |
+| Sigtuna | [Stora gatan i Sigtuna nr 1.jpg](https://commons.wikimedia.org/wiki/File:Stora_gatan_i_Sigtuna_nr_1.jpg) | Brorsson | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Sijilmasa | [The northern gate of sijilmassa Mansouria.jpg](https://commons.wikimedia.org/wiki/File:The_northern_gate_of_sijilmassa_Mansouria.jpg) | Hmidanix | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Silla | [6th century Silla.png](https://commons.wikimedia.org/wiki/File:6th_century_Silla.png) | Asieon | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | Skara Brae | [Orkney Skara Brae.jpg](https://commons.wikimedia.org/wiki/File:Orkney_Skara_Brae.jpg) | Dr. John F. Burka | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
@@ -222,11 +280,14 @@ Modified data: spatially aggregated, clipped where described, converted from peo
 | Soviet Union | [Soviet Union on the globe (Soviet Union centered).svg](https://commons.wikimedia.org/wiki/File:Soviet_Union_on_the_globe_(Soviet_Union_centered).svg) | B1mbo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Sparta | [Sparta.jpg](https://commons.wikimedia.org/wiki/File:Sparta.jpg) | Napoleon Vier at Dutch Wikipedia | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | Srivijaya | [Srivijaya Empire.svg](https://commons.wikimedia.org/wiki/File:Srivijaya_Empire.svg) | Gunawan Kartapranata | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| St. Augustine | [StAugustineC12.png](https://commons.wikimedia.org/wiki/File:StAugustineC12.png) | Excel23 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Stockholm | [Stockholm gamlastan etc.jpg](https://commons.wikimedia.org/wiki/File:Stockholm_gamlastan_etc.jpg) | JZ | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Storming of the Bastille | [Prise de la Bastille.jpg](https://commons.wikimedia.org/wiki/File:Prise_de_la_Bastille.jpg) | Jean-Pierre Houël | Public domain |
 | Suez Canal | [Suez Canal, Egypt (31596166706).jpg](https://commons.wikimedia.org/wiki/File:Suez_Canal,_Egypt_(31596166706).jpg) | Pierre Markuse from Hamm, Germany | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Sui dynasty | [China, 610.svg](https://commons.wikimedia.org/wiki/File:China,_610.svg) | Yug translator: Manlleus (ca) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Sumer | [Orientmitja2300aC.png](https://commons.wikimedia.org/wiki/File:Orientmitja2300aC.png) | Jolle at Catalan Wikipedia | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | Susa | [The Apadana, a large hypostyle room of 36 columns in the Palace of Darius, Susa, capital of Elam and of the Achaemenid Empire, Iran (46950284624).jpg](https://commons.wikimedia.org/wiki/File:The_Apadana,_a_large_hypostyle_room_of_36_columns_in_the_Palace_of_Darius,_Susa,_capital_of_Elam_and_of_the_Achaemenid_Empire,_Iran_(46950284624).jpg) | Carole Raddato from Frankfurt, Germany | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| Swedish Empire | [LocationSwedishEmpire.png](https://commons.wikimedia.org/wiki/File:LocationSwedishEmpire.png) | Zakuragi | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | Sydney | [00 3178 Sydney, Australia.jpg](https://commons.wikimedia.org/wiki/File:00_3178_Sydney,_Australia.jpg) | W. Bulach | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | São Paulo | [Sao Paulo Skyline in Brazil.jpg](https://commons.wikimedia.org/wiki/File:Sao_Paulo_Skyline_in_Brazil.jpg) | Thomas Hobbs | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
 | Taj Mahal | [Taj Mahal, Agra, India edit3.jpg](https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit3.jpg) | Taj_Mahal,_Agra,_India_edit2.jpg : Yann ; edited by King of Hearts derivative work: Jbarta ( talk ) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
@@ -235,43 +296,57 @@ Modified data: spatially aggregated, clipped where described, converted from peo
 | Tel Megiddo | [Megido City Gate1.jpg](https://commons.wikimedia.org/wiki/File:Megido_City_Gate1.jpg) | Golf Bravo 12:55, 26 May 2007 (UTC) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | Tenochtitlan | [Vista completa de Tenochtitlán.jpg](https://commons.wikimedia.org/wiki/File:Vista_completa_de_Tenochtitl%C3%A1n.jpg) | thomas kole | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
 | Teotihuacan | [ZA77 Teotihuacán edo de mex Herberto de la rosa.jpg](https://commons.wikimedia.org/wiki/File:ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg) | Hdlrosa | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Terra Nova Expedition | [Scottgroup.jpg](https://commons.wikimedia.org/wiki/File:Scottgroup.jpg) | Henry Bowers (1883–1912) | Public domain |
 | Terracotta Army | [51714-Terracota-Army.jpg](https://commons.wikimedia.org/wiki/File:51714-Terracota-Army.jpg) | xiquinhosilva | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Tikal | [Tikal 3.jpg](https://commons.wikimedia.org/wiki/File:Tikal_3.jpg) | Mundo Maya | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Timbuktu | [Timbuktu Mosque Sankore.jpg](https://commons.wikimedia.org/wiki/File:Timbuktu_Mosque_Sankore.jpg) | Senani P | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) |
 | Tiwanaku | [Zonnepoort tiwanaku.jpg](https://commons.wikimedia.org/wiki/File:Zonnepoort_tiwanaku.jpg) | Mhwater | Public domain |
 | Tokyo | [Skyscrapers of Shinjuku 2009 January (revised).jpg](https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Shinjuku_2009_January_(revised).jpg) | Morio | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Trinity | [Trinity Test Fireball 16ms.jpg](https://commons.wikimedia.org/wiki/File:Trinity_Test_Fireball_16ms.jpg) | Berlyn Brixner / Los Alamos National Laboratory | Public domain |
+| Trondheim | [Overview of Trondheim 2008 03.jpg](https://commons.wikimedia.org/wiki/File:Overview_of_Trondheim_2008_03.jpg) | Åge Hojem/Trondheim Havn from Trondheim, Norway | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
 | Troy | [Walls of Troy (2).jpg](https://commons.wikimedia.org/wiki/File:Walls_of_Troy_(2).jpg) | CherryX | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Tsardom of Russia | [Flag of the Tzar of Muscovia.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Tzar_of_Muscovia.svg) | Участник Radziun | Public domain |
+| Turku | [Turku Cathedral Park 2020.jpg](https://commons.wikimedia.org/wiki/File:Turku_Cathedral_Park_2020.jpg) | Ninara | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Tu‘i Tonga Empire | [Map of the of Tu'i Tonga Empire.svg](https://commons.wikimedia.org/wiki/File:Map_of_the_of_Tu%27i_Tonga_Empire.svg) | David Ll L | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Tyre | [SubmergedEgyptianHarbour TyreSour Lebanon RomanDeckert04112019.jpg](https://commons.wikimedia.org/wiki/File:SubmergedEgyptianHarbour_TyreSour_Lebanon_RomanDeckert04112019.jpg) | RomanDeckert | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Ugarit | [Ugarit Corbel.jpg](https://commons.wikimedia.org/wiki/File:Ugarit_Corbel.jpg) | Disdero ( talk · contribs ) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | Umayyad Caliphate | [Caliphate 740-ar.svg](https://commons.wikimedia.org/wiki/File:Caliphate_740-ar.svg) | Bassem Fleifel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | United States Declaration of Independence | [United States Declaration of Independence.jpg](https://commons.wikimedia.org/wiki/File:United_States_Declaration_of_Independence.jpg) | original: w:Second Continental Congress ; reproduction: William Stone | Public domain |
 | Ur | [Ur-Nassiriyah.jpg](https://commons.wikimedia.org/wiki/File:Ur-Nassiriyah.jpg) | M.Lubinski from Iraq,USA. | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| Uxmal | [Panoramica Uxmal.jpg](https://commons.wikimedia.org/wiki/File:Panoramica_Uxmal.jpg) | Adrian Hernandez | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Veliky Novgorod | [Veliky Novgorod montage (2015).png](https://commons.wikimedia.org/wiki/File:Veliky_Novgorod_montage_(2015).png) | Insider , Dio-fine-art , Нелли , Belliy , Konstantin hramov | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Viceroyalty of New Granada | [Viceroyalty of New Granada (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Viceroyalty_of_New_Granada_(orthographic_projection).svg) | Milenioscuro | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Viceroyalty of Peru | [Map of the Viceroyalty of Peru (de jure + de facto).svg](https://commons.wikimedia.org/wiki/File:Map_of_the_Viceroyalty_of_Peru_(de_jure_%2B_de_facto).svg) | Milenioscuro Derivative work: Janitoalevic | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Viceroyalty of the Río de la Plata | [Viceroyalty of the Río de la Plata (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Viceroyalty_of_the_R%C3%ADo_de_la_Plata_(orthographic_projection).svg) | Keepscases | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | Vijayanagara Empire | [Vijayanagara-empire-map.svg](https://commons.wikimedia.org/wiki/File:Vijayanagara-empire-map.svg) | Mlpkr | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| Volga Bulgaria | [VolgaBulgaria1200.png](https://commons.wikimedia.org/wiki/File:VolgaBulgaria1200.png) | Gabagool | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | Volubilis | [Volubilis,Morocco.jpg](https://commons.wikimedia.org/wiki/File:Volubilis,Morocco.jpg) | Marcin Sochacki (Wanted) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Wari Empire | [Map of Wari and Tiawaku.svg](https://commons.wikimedia.org/wiki/File:Map_of_Wari_and_Tiawaku.svg) | QQuantum | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Warsaw Uprising | [Polish Soldier's Grave Warsaw 1945.jpg](https://commons.wikimedia.org/wiki/File:Polish_Soldier%27s_Grave_Warsaw_1945.jpg) | Tadeusz Bukowski | Public domain |
+| Washington, D.C. | [Aerial view of White House and downtown, Washington, D.C LCCN2010630891.jpg](https://commons.wikimedia.org/wiki/File:Aerial_view_of_White_House_and_downtown,_Washington,_D.C_LCCN2010630891.jpg) | Carol M. Highsmith | Public domain |
 | Western Roman Empire | [Western Roman Empire - 400 AD.png](https://commons.wikimedia.org/wiki/File:Western_Roman_Empire_-_400_AD.png) | Shuaaa2 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Wright brothers' maiden flight | [First flight3.jpg](https://commons.wikimedia.org/wiki/File:First_flight3.jpg) | John T. Daniels | Public domain |
+| Yalta Conference | [Jalta-confer.jpg](https://commons.wikimedia.org/wiki/File:Jalta-confer.jpg) | US Army Signal Corps | Public domain |
 | Yuan dynasty | [Yuan Provinces.png](https://commons.wikimedia.org/wiki/File:Yuan_Provinces.png) | SY | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Zulu Kingdom | [Gees van eMakhosini-monument, eMakhosini.jpg](https://commons.wikimedia.org/wiki/File:Gees_van_eMakhosini-monument,_eMakhosini.jpg) | JMK | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | assassination of Archduke Franz Ferdinand | [DC-1914-27-d-Sarajevo.jpg](https://commons.wikimedia.org/wiki/File:DC-1914-27-d-Sarajevo.jpg) | Achille Beltrame | Public domain |
+| assassination of John F. Kennedy | [JFK Motorcade GettyImages-517330536.jpg](https://commons.wikimedia.org/wiki/File:JFK_Motorcade_GettyImages-517330536.jpg) | Walt Cisco, Dallas Morning News | Public domain |
 | atomic bombings of Hiroshima and Nagasaki | [Atomic bombing of Japan.jpg](https://commons.wikimedia.org/wiki/File:Atomic_bombing_of_Japan.jpg) | George R. Caron / Charles Levy | Public domain |
+| death of James Cook | [Zoffany Death of Captain Cook.jpg](https://commons.wikimedia.org/wiki/File:Zoffany_Death_of_Captain_Cook.jpg) | Johann Zoffany | Public domain |
 | eruption of Mount Vesuvius in 79 | [Aivazovsky - Destruction of Pompeii.jpg](https://commons.wikimedia.org/wiki/File:Aivazovsky_-_Destruction_of_Pompeii.jpg) | Ivan Aivazovsky | Public domain |
 | fall of the Berlin Wall | [BerlinWall-BrandenburgGate.jpg](https://commons.wikimedia.org/wiki/File:BerlinWall-BrandenburgGate.jpg) | Sue Ream , photographer (San Francisco, California) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | proclamation of the People's Republic of China | [Mao proclaiming establishment of PRC.jpg](https://commons.wikimedia.org/wiki/File:Mao_proclaiming_establishment_of_PRC.jpg) | Unknown author | Public domain |
 | Çatalhöyük | [Çatalhöyük, 7400 BC, Konya, Turkey - UNESCO World Heritage Site, 08.jpg](https://commons.wikimedia.org/wiki/File:%C3%87atalh%C3%B6y%C3%BCk,_7400_BC,_Konya,_Turkey_-_UNESCO_World_Heritage_Site,_08.jpg) | Murat Özsoy 1958 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | Ġgantija | [Ggantija Temple on Gozo (cropped).jpg](https://commons.wikimedia.org/wiki/File:Ggantija_Temple_on_Gozo_(cropped).jpg) | FritzPhotography | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 
-## Marker texts (244)
+## Marker texts (318)
 
 Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides left out.
 
 | Article | Revision |
 |---|---|
 | [1883 eruption of Krakatoa](https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa) | [1381107509](https://en.wikipedia.org/w/index.php?oldid=1381107509) |
+| [1953 British Mount Everest expedition](https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition) | [1385117066](https://en.wikipedia.org/w/index.php?oldid=1385117066) |
 | [Abbasid Caliphate](https://en.wikipedia.org/wiki/Abbasid_Caliphate) | [1381713453](https://en.wikipedia.org/w/index.php?oldid=1381713453) |
 | [Abu Simbel](https://en.wikipedia.org/wiki/Abu_Simbel) | [1380751752](https://en.wikipedia.org/w/index.php?oldid=1380751752) |
 | [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) | [1381144026](https://en.wikipedia.org/w/index.php?oldid=1381144026) |
@@ -279,17 +354,20 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | [Addis Ababa](https://en.wikipedia.org/wiki/Addis_Ababa) | [1379089358](https://en.wikipedia.org/w/index.php?oldid=1379089358) |
 | [Ajuran Sultanate](https://en.wikipedia.org/wiki/Ajuran_Sultanate) | [1373802717](https://en.wikipedia.org/w/index.php?oldid=1373802717) |
 | [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) | [1381712079](https://en.wikipedia.org/w/index.php?oldid=1381712079) |
+| [Amundsen's South Pole expedition](https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition) | [1379187111](https://en.wikipedia.org/w/index.php?oldid=1379187111) |
 | [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt) | [1380651931](https://en.wikipedia.org/w/index.php?oldid=1380651931) |
 | [Angkor Wat](https://en.wikipedia.org/wiki/Angkor_Wat) | [1381020125](https://en.wikipedia.org/w/index.php?oldid=1381020125) |
 | [Antioch](https://en.wikipedia.org/wiki/Antioch) | [1374847636](https://en.wikipedia.org/w/index.php?oldid=1374847636) |
 | [Asante Empire](https://en.wikipedia.org/wiki/Asante_Empire) | [1380974027](https://en.wikipedia.org/w/index.php?oldid=1380974027) |
 | [Assassination of Archduke Franz Ferdinand](https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand) | [1380073037](https://en.wikipedia.org/w/index.php?oldid=1380073037) |
+| [Assassination of John F. Kennedy](https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy) | [1384510273](https://en.wikipedia.org/w/index.php?oldid=1384510273) |
 | [Assyria](https://en.wikipedia.org/wiki/Assyria) | [1381088511](https://en.wikipedia.org/w/index.php?oldid=1381088511) |
 | [Asunción](https://en.wikipedia.org/wiki/Asunci%C3%B3n) | [1379522019](https://en.wikipedia.org/w/index.php?oldid=1379522019) |
 | [Athens](https://en.wikipedia.org/wiki/Athens) | [1381335280](https://en.wikipedia.org/w/index.php?oldid=1381335280) |
 | [Atomic bombings of Hiroshima and Nagasaki](https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki) | [1380059296](https://en.wikipedia.org/w/index.php?oldid=1380059296) |
 | [Attack on Pearl Harbor](https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor) | [1380997506](https://en.wikipedia.org/w/index.php?oldid=1380997506) |
 | [Auckland](https://en.wikipedia.org/wiki/Auckland) | [1380365811](https://en.wikipedia.org/w/index.php?oldid=1380365811) |
+| [Auschwitz concentration camp](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp) | [1382795514](https://en.wikipedia.org/w/index.php?oldid=1382795514) |
 | [Aztec Empire](https://en.wikipedia.org/wiki/Aztec_Empire) | [1380802080](https://en.wikipedia.org/w/index.php?oldid=1380802080) |
 | [Babylon](https://en.wikipedia.org/wiki/Babylon) | [1381288220](https://en.wikipedia.org/w/index.php?oldid=1381288220) |
 | [Babylonia](https://en.wikipedia.org/wiki/Babylonia) | [1374896813](https://en.wikipedia.org/w/index.php?oldid=1374896813) |
@@ -298,28 +376,44 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | [Battle of Adwa](https://en.wikipedia.org/wiki/Battle_of_Adwa) | [1380005476](https://en.wikipedia.org/w/index.php?oldid=1380005476) |
 | [Battle of Ain Jalut](https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut) | [1380893739](https://en.wikipedia.org/w/index.php?oldid=1380893739) |
 | [Battle of Ayacucho](https://en.wikipedia.org/wiki/Battle_of_Ayacucho) | [1379061010](https://en.wikipedia.org/w/index.php?oldid=1379061010) |
+| [Battle of Borodino](https://en.wikipedia.org/wiki/Battle_of_Borodino) | [1379952654](https://en.wikipedia.org/w/index.php?oldid=1379952654) |
 | [Battle of Boyacá](https://en.wikipedia.org/wiki/Battle_of_Boyac%C3%A1) | [1379060649](https://en.wikipedia.org/w/index.php?oldid=1379060649) |
 | [Battle of Cajamarca](https://en.wikipedia.org/wiki/Battle_of_Cajamarca) | [1379997957](https://en.wikipedia.org/w/index.php?oldid=1379997957) |
 | [Battle of Gaugamela](https://en.wikipedia.org/wiki/Battle_of_Gaugamela) | [1373255873](https://en.wikipedia.org/w/index.php?oldid=1373255873) |
 | [Battle of Gettysburg](https://en.wikipedia.org/wiki/Battle_of_Gettysburg) | [1380654585](https://en.wikipedia.org/w/index.php?oldid=1380654585) |
+| [Battle of Grunwald](https://en.wikipedia.org/wiki/Battle_of_Grunwald) | [1382412700](https://en.wikipedia.org/w/index.php?oldid=1382412700) |
+| [Battle of Hafrsfjord](https://en.wikipedia.org/wiki/Battle_of_Hafrsfjord) | [1383066237](https://en.wikipedia.org/w/index.php?oldid=1383066237) |
 | [Battle of Hastings](https://en.wikipedia.org/wiki/Battle_of_Hastings) | [1380225409](https://en.wikipedia.org/w/index.php?oldid=1380225409) |
 | [Battle of Isandlwana](https://en.wikipedia.org/wiki/Battle_of_Isandlwana) | [1381613408](https://en.wikipedia.org/w/index.php?oldid=1381613408) |
 | [Battle of Kadesh](https://en.wikipedia.org/wiki/Battle_of_Kadesh) | [1380942414](https://en.wikipedia.org/w/index.php?oldid=1380942414) |
+| [Battle of Kosovo](https://en.wikipedia.org/wiki/Battle_of_Kosovo) | [1382317670](https://en.wikipedia.org/w/index.php?oldid=1382317670) |
+| [Battle of Kulikovo](https://en.wikipedia.org/wiki/Battle_of_Kulikovo) | [1384545167](https://en.wikipedia.org/w/index.php?oldid=1384545167) |
+| [Battle of Kursk](https://en.wikipedia.org/wiki/Battle_of_Kursk) | [1384854642](https://en.wikipedia.org/w/index.php?oldid=1384854642) |
 | [Battle of Lepanto](https://en.wikipedia.org/wiki/Battle_of_Lepanto) | [1380834796](https://en.wikipedia.org/w/index.php?oldid=1380834796) |
 | [Battle of Marathon](https://en.wikipedia.org/wiki/Battle_of_Marathon) | [1380768828](https://en.wikipedia.org/w/index.php?oldid=1380768828) |
+| [Battle of Mohács](https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs) | [1374663967](https://en.wikipedia.org/w/index.php?oldid=1374663967) |
+| [Battle of Narva (1700)](https://en.wikipedia.org/wiki/Battle_of_Narva_(1700)) | [1382484115](https://en.wikipedia.org/w/index.php?oldid=1382484115) |
 | [Battle of Plassey](https://en.wikipedia.org/wiki/Battle_of_Plassey) | [1381150568](https://en.wikipedia.org/w/index.php?oldid=1381150568) |
+| [Battle of Poltava](https://en.wikipedia.org/wiki/Battle_of_Poltava) | [1382483921](https://en.wikipedia.org/w/index.php?oldid=1382483921) |
 | [Battle of Red Cliffs](https://en.wikipedia.org/wiki/Battle_of_Red_Cliffs) | [1370587339](https://en.wikipedia.org/w/index.php?oldid=1370587339) |
 | [Battle of Stalingrad](https://en.wikipedia.org/wiki/Battle_of_Stalingrad) | [1381448910](https://en.wikipedia.org/w/index.php?oldid=1381448910) |
+| [Battle of Stiklestad](https://en.wikipedia.org/wiki/Battle_of_Stiklestad) | [1379001418](https://en.wikipedia.org/w/index.php?oldid=1379001418) |
 | [Battle of Talas](https://en.wikipedia.org/wiki/Battle_of_Talas) | [1381545201](https://en.wikipedia.org/w/index.php?oldid=1381545201) |
 | [Battle of Tours](https://en.wikipedia.org/wiki/Battle_of_Tours) | [1380614693](https://en.wikipedia.org/w/index.php?oldid=1380614693) |
 | [Battle of Waterloo](https://en.wikipedia.org/wiki/Battle_of_Waterloo) | [1380652941](https://en.wikipedia.org/w/index.php?oldid=1380652941) |
+| [Battle of the Alamo](https://en.wikipedia.org/wiki/Battle_of_the_Alamo) | [1384249180](https://en.wikipedia.org/w/index.php?oldid=1384249180) |
 | [Battle of the Catalaunian Plains](https://en.wikipedia.org/wiki/Battle_of_the_Catalaunian_Plains) | [1378647880](https://en.wikipedia.org/w/index.php?oldid=1378647880) |
+| [Battle of the Little Bighorn](https://en.wikipedia.org/wiki/Battle_of_the_Little_Bighorn) | [1384823030](https://en.wikipedia.org/w/index.php?oldid=1384823030) |
 | [Battle of the Somme](https://en.wikipedia.org/wiki/Battle_of_the_Somme) | [1380548354](https://en.wikipedia.org/w/index.php?oldid=1380548354) |
 | [Belovezha Accords](https://en.wikipedia.org/wiki/Belovezha_Accords) | [1373420915](https://en.wikipedia.org/w/index.php?oldid=1373420915) |
+| [Bergen](https://en.wikipedia.org/wiki/Bergen) | [1384659163](https://en.wikipedia.org/w/index.php?oldid=1384659163) |
 | [Berlin Conference](https://en.wikipedia.org/wiki/Berlin_Conference) | [1380363924](https://en.wikipedia.org/w/index.php?oldid=1380363924) |
+| [Birka and Hovgården](https://en.wikipedia.org/wiki/Birka_and_Hovg%C3%A5rden) | [1368750694](https://en.wikipedia.org/w/index.php?oldid=1368750694) |
 | [Bogotá](https://en.wikipedia.org/wiki/Bogot%C3%A1) | [1381694214](https://en.wikipedia.org/w/index.php?oldid=1381694214) |
 | [Borobudur](https://en.wikipedia.org/wiki/Borobudur) | [1381174784](https://en.wikipedia.org/w/index.php?oldid=1381174784) |
+| [Boston](https://en.wikipedia.org/wiki/Boston) | [1384367160](https://en.wikipedia.org/w/index.php?oldid=1384367160) |
 | [Brasília](https://en.wikipedia.org/wiki/Bras%C3%ADlia) | [1379848829](https://en.wikipedia.org/w/index.php?oldid=1379848829) |
+| [Bucharest](https://en.wikipedia.org/wiki/Bucharest) | [1384548549](https://en.wikipedia.org/w/index.php?oldid=1384548549) |
 | [Budj Bim](https://en.wikipedia.org/wiki/Budj_Bim) | [1368621277](https://en.wikipedia.org/w/index.php?oldid=1368621277) |
 | [Buenos Aires](https://en.wikipedia.org/wiki/Buenos_Aires) | [1381234008](https://en.wikipedia.org/w/index.php?oldid=1381234008) |
 | [Byblos](https://en.wikipedia.org/wiki/Byblos) | [1375323090](https://en.wikipedia.org/w/index.php?oldid=1375323090) |
@@ -335,10 +429,12 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | [Carthage](https://en.wikipedia.org/wiki/Carthage) | [1379936790](https://en.wikipedia.org/w/index.php?oldid=1379936790) |
 | [Chavín de Huántar](https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar) | [1364711956](https://en.wikipedia.org/w/index.php?oldid=1364711956) |
 | [Chernobyl disaster](https://en.wikipedia.org/wiki/Chernobyl_disaster) | [1380805589](https://en.wikipedia.org/w/index.php?oldid=1380805589) |
+| [Chicago](https://en.wikipedia.org/wiki/Chicago) | [1385121327](https://en.wikipedia.org/w/index.php?oldid=1385121327) |
 | [Chichen Itza](https://en.wikipedia.org/wiki/Chichen_Itza) | [1381289591](https://en.wikipedia.org/w/index.php?oldid=1381289591) |
 | [Chimor](https://en.wikipedia.org/wiki/Chimor) | [1374015147](https://en.wikipedia.org/w/index.php?oldid=1374015147) |
 | [Church of Saint George, Lalibela](https://en.wikipedia.org/wiki/Church_of_Saint_George,_Lalibela) | [1363749576](https://en.wikipedia.org/w/index.php?oldid=1363749576) |
 | [Colosseum](https://en.wikipedia.org/wiki/Colosseum) | [1378181090](https://en.wikipedia.org/w/index.php?oldid=1378181090) |
+| [Confederate States of America](https://en.wikipedia.org/wiki/Confederate_States_of_America) | [1384858683](https://en.wikipedia.org/w/index.php?oldid=1384858683) |
 | [Conquest of Mecca](https://en.wikipedia.org/wiki/Conquest_of_Mecca) | [1379370416](https://en.wikipedia.org/w/index.php?oldid=1379370416) |
 | [Constantinople](https://en.wikipedia.org/wiki/Constantinople) | [1381442412](https://en.wikipedia.org/w/index.php?oldid=1381442412) |
 | [Copán](https://en.wikipedia.org/wiki/Cop%C3%A1n) | [1378840461](https://en.wikipedia.org/w/index.php?oldid=1378840461) |
@@ -347,8 +443,11 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | [Cuban Missile Crisis](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis) | [1373637342](https://en.wikipedia.org/w/index.php?oldid=1373637342) |
 | [Cueva de las Manos](https://en.wikipedia.org/wiki/Cueva_de_las_Manos) | [1377190716](https://en.wikipedia.org/w/index.php?oldid=1377190716) |
 | [Cusco](https://en.wikipedia.org/wiki/Cusco) | [1379969157](https://en.wikipedia.org/w/index.php?oldid=1379969157) |
+| [Dacia](https://en.wikipedia.org/wiki/Dacia) | [1374231690](https://en.wikipedia.org/w/index.php?oldid=1374231690) |
 | [Damascus](https://en.wikipedia.org/wiki/Damascus) | [1378355105](https://en.wikipedia.org/w/index.php?oldid=1378355105) |
+| [Death of James Cook](https://en.wikipedia.org/wiki/Death_of_James_Cook) | [1381492699](https://en.wikipedia.org/w/index.php?oldid=1381492699) |
 | [Delhi](https://en.wikipedia.org/wiki/Delhi) | [1380586204](https://en.wikipedia.org/w/index.php?oldid=1380586204) |
+| [Denmark–Norway](https://en.wikipedia.org/wiki/Denmark%E2%80%93Norway) | [1384583813](https://en.wikipedia.org/w/index.php?oldid=1384583813) |
 | [Destruction of opium at Humen](https://en.wikipedia.org/wiki/Destruction_of_opium_at_Humen) | [1381372011](https://en.wikipedia.org/w/index.php?oldid=1381372011) |
 | [Diet of Worms](https://en.wikipedia.org/wiki/Diet_of_Worms) | [1373282753](https://en.wikipedia.org/w/index.php?oldid=1373282753) |
 | [Djenné](https://en.wikipedia.org/wiki/Djenn%C3%A9) | [1377179164](https://en.wikipedia.org/w/index.php?oldid=1377179164) |
@@ -365,13 +464,18 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | [Fall of the Berlin Wall](https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall) | [1381545949](https://en.wikipedia.org/w/index.php?oldid=1381545949) |
 | [Fatimid Caliphate](https://en.wikipedia.org/wiki/Fatimid_Caliphate) | [1379965091](https://en.wikipedia.org/w/index.php?oldid=1379965091) |
 | [Fez, Morocco](https://en.wikipedia.org/wiki/Fez,_Morocco) | [1378540503](https://en.wikipedia.org/w/index.php?oldid=1378540503) |
+| [First Bulgarian Empire](https://en.wikipedia.org/wiki/First_Bulgarian_Empire) | [1378440691](https://en.wikipedia.org/w/index.php?oldid=1378440691) |
 | [First French Empire](https://en.wikipedia.org/wiki/First_French_Empire) | [1380791769](https://en.wikipedia.org/w/index.php?oldid=1380791769) |
 | [Forbidden City](https://en.wikipedia.org/wiki/Forbidden_City) | [1381359730](https://en.wikipedia.org/w/index.php?oldid=1381359730) |
 | [Fort Jesus](https://en.wikipedia.org/wiki/Fort_Jesus) | [1381600699](https://en.wikipedia.org/w/index.php?oldid=1381600699) |
+| [Gdańsk](https://en.wikipedia.org/wiki/Gda%C5%84sk) | [1384685498](https://en.wikipedia.org/w/index.php?oldid=1384685498) |
 | [German Empire](https://en.wikipedia.org/wiki/German_Empire) | [1381617642](https://en.wikipedia.org/w/index.php?oldid=1381617642) |
 | [Ghana Empire](https://en.wikipedia.org/wiki/Ghana_Empire) | [1381637656](https://en.wikipedia.org/w/index.php?oldid=1381637656) |
+| [Golden Horde](https://en.wikipedia.org/wiki/Golden_Horde) | [1384470359](https://en.wikipedia.org/w/index.php?oldid=1384470359) |
 | [Gondar](https://en.wikipedia.org/wiki/Gondar) | [1381238847](https://en.wikipedia.org/w/index.php?oldid=1381238847) |
 | [Gran Colombia](https://en.wikipedia.org/wiki/Gran_Colombia) | [1375026848](https://en.wikipedia.org/w/index.php?oldid=1375026848) |
+| [Grand Duchy of Lithuania](https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania) | [1384512438](https://en.wikipedia.org/w/index.php?oldid=1384512438) |
+| [Great Moravia](https://en.wikipedia.org/wiki/Great_Moravia) | [1383247301](https://en.wikipedia.org/w/index.php?oldid=1383247301) |
 | [Great Mosque of Kairouan](https://en.wikipedia.org/wiki/Great_Mosque_of_Kairouan) | [1380150391](https://en.wikipedia.org/w/index.php?oldid=1380150391) |
 | [Great Pyramid of Giza](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza) | [1378503482](https://en.wikipedia.org/w/index.php?oldid=1378503482) |
 | [Great Wall of China](https://en.wikipedia.org/wiki/Great_Wall_of_China) | [1374512030](https://en.wikipedia.org/w/index.php?oldid=1374512030) |
@@ -382,27 +486,37 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | [Havana](https://en.wikipedia.org/wiki/Havana) | [1380683671](https://en.wikipedia.org/w/index.php?oldid=1380683671) |
 | [Hawaiian Kingdom](https://en.wikipedia.org/wiki/Hawaiian_Kingdom) | [1381487766](https://en.wikipedia.org/w/index.php?oldid=1381487766) |
 | [Headquarters of the United Nations](https://en.wikipedia.org/wiki/Headquarters_of_the_United_Nations) | [1376160976](https://en.wikipedia.org/w/index.php?oldid=1376160976) |
+| [Hedeby](https://en.wikipedia.org/wiki/Hedeby) | [1365735697](https://en.wikipedia.org/w/index.php?oldid=1365735697) |
+| [Helsinki](https://en.wikipedia.org/wiki/Helsinki) | [1382243127](https://en.wikipedia.org/w/index.php?oldid=1382243127) |
 | [Holy Roman Empire](https://en.wikipedia.org/wiki/Holy_Roman_Empire) | [1380195473](https://en.wikipedia.org/w/index.php?oldid=1380195473) |
 | [Huaca Prieta](https://en.wikipedia.org/wiki/Huaca_Prieta) | [1364836453](https://en.wikipedia.org/w/index.php?oldid=1364836453) |
 | [Inca Empire](https://en.wikipedia.org/wiki/Inca_Empire) | [1378979879](https://en.wikipedia.org/w/index.php?oldid=1378979879) |
+| [Jelling stones](https://en.wikipedia.org/wiki/Jelling_stones) | [1382399574](https://en.wikipedia.org/w/index.php?oldid=1382399574) |
 | [Jerusalem](https://en.wikipedia.org/wiki/Jerusalem) | [1381704269](https://en.wikipedia.org/w/index.php?oldid=1381704269) |
 | [Johannesburg](https://en.wikipedia.org/wiki/Johannesburg) | [1381226640](https://en.wikipedia.org/w/index.php?oldid=1381226640) |
 | [Joseon](https://en.wikipedia.org/wiki/Joseon) | [1379603590](https://en.wikipedia.org/w/index.php?oldid=1379603590) |
+| [Kalmar Union](https://en.wikipedia.org/wiki/Kalmar_Union) | [1383761091](https://en.wikipedia.org/w/index.php?oldid=1383761091) |
 | [Kanem–Bornu Empire](https://en.wikipedia.org/wiki/Kanem%E2%80%93Bornu_Empire) | [1376385503](https://en.wikipedia.org/w/index.php?oldid=1376385503) |
 | [Karnak](https://en.wikipedia.org/wiki/Karnak) | [1377418456](https://en.wikipedia.org/w/index.php?oldid=1377418456) |
+| [Kazan](https://en.wikipedia.org/wiki/Kazan) | [1382126196](https://en.wikipedia.org/w/index.php?oldid=1382126196) |
 | [Khirokitia](https://en.wikipedia.org/wiki/Khirokitia) | [1365403123](https://en.wikipedia.org/w/index.php?oldid=1365403123) |
 | [Khmer Empire](https://en.wikipedia.org/wiki/Khmer_Empire) | [1378169231](https://en.wikipedia.org/w/index.php?oldid=1378169231) |
 | [Kievan Rus'](https://en.wikipedia.org/wiki/Kievan_Rus%27) | [1379211684](https://en.wikipedia.org/w/index.php?oldid=1379211684) |
 | [Kilwa Kisiwani](https://en.wikipedia.org/wiki/Kilwa_Kisiwani) | [1372017470](https://en.wikipedia.org/w/index.php?oldid=1372017470) |
 | [Kingdom of Aksum](https://en.wikipedia.org/wiki/Kingdom_of_Aksum) | [1374239548](https://en.wikipedia.org/w/index.php?oldid=1374239548) |
 | [Kingdom of Benin](https://en.wikipedia.org/wiki/Kingdom_of_Benin) | [1380835611](https://en.wikipedia.org/w/index.php?oldid=1380835611) |
+| [Kingdom of Bohemia](https://en.wikipedia.org/wiki/Kingdom_of_Bohemia) | [1380108894](https://en.wikipedia.org/w/index.php?oldid=1380108894) |
+| [Kingdom of Hungary](https://en.wikipedia.org/wiki/Kingdom_of_Hungary) | [1381033258](https://en.wikipedia.org/w/index.php?oldid=1381033258) |
 | [Kingdom of Italy](https://en.wikipedia.org/wiki/Kingdom_of_Italy) | [1380037387](https://en.wikipedia.org/w/index.php?oldid=1380037387) |
 | [Kingdom of Kongo](https://en.wikipedia.org/wiki/Kingdom_of_Kongo) | [1380219064](https://en.wikipedia.org/w/index.php?oldid=1380219064) |
 | [Kingdom of Kush](https://en.wikipedia.org/wiki/Kingdom_of_Kush) | [1380880300](https://en.wikipedia.org/w/index.php?oldid=1380880300) |
 | [Kingdom of Mapungubwe](https://en.wikipedia.org/wiki/Kingdom_of_Mapungubwe) | [1381188347](https://en.wikipedia.org/w/index.php?oldid=1381188347) |
 | [Kinshasa](https://en.wikipedia.org/wiki/Kinshasa) | [1381723006](https://en.wikipedia.org/w/index.php?oldid=1381723006) |
+| [Klondike Gold Rush](https://en.wikipedia.org/wiki/Klondike_Gold_Rush) | [1384758167](https://en.wikipedia.org/w/index.php?oldid=1384758167) |
 | [Knossos](https://en.wikipedia.org/wiki/Knossos) | [1374770779](https://en.wikipedia.org/w/index.php?oldid=1374770779) |
 | [Korean War](https://en.wikipedia.org/wiki/Korean_War) | [1381005552](https://en.wikipedia.org/w/index.php?oldid=1381005552) |
+| [Kronborg](https://en.wikipedia.org/wiki/Kronborg) | [1377507327](https://en.wikipedia.org/w/index.php?oldid=1377507327) |
+| [Kujataa](https://en.wikipedia.org/wiki/Kujataa) | [1382279650](https://en.wikipedia.org/w/index.php?oldid=1382279650) |
 | [Kuk Swamp](https://en.wikipedia.org/wiki/Kuk_Swamp) | [1366154781](https://en.wikipedia.org/w/index.php?oldid=1366154781) |
 | [L'Anse aux Meadows](https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows) | [1380499184](https://en.wikipedia.org/w/index.php?oldid=1380499184) |
 | [La Navidad](https://en.wikipedia.org/wiki/La_Navidad) | [1376554215](https://en.wikipedia.org/w/index.php?oldid=1376554215) |
@@ -410,11 +524,14 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | [La Venta](https://en.wikipedia.org/wiki/La_Venta) | [1365247924](https://en.wikipedia.org/w/index.php?oldid=1365247924) |
 | [Lagos](https://en.wikipedia.org/wiki/Lagos) | [1381181952](https://en.wikipedia.org/w/index.php?oldid=1381181952) |
 | [Leptis Magna](https://en.wikipedia.org/wiki/Leptis_Magna) | [1364716108](https://en.wikipedia.org/w/index.php?oldid=1364716108) |
+| [Lewis and Clark Expedition](https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition) | [1382101210](https://en.wikipedia.org/w/index.php?oldid=1382101210) |
 | [Lima](https://en.wikipedia.org/wiki/Lima) | [1381310020](https://en.wikipedia.org/w/index.php?oldid=1381310020) |
 | [London](https://en.wikipedia.org/wiki/London) | [1380376853](https://en.wikipedia.org/w/index.php?oldid=1380376853) |
+| [Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles) | [1385050673](https://en.wikipedia.org/w/index.php?oldid=1385050673) |
 | [Luanda](https://en.wikipedia.org/wiki/Luanda) | [1379129982](https://en.wikipedia.org/w/index.php?oldid=1379129982) |
 | [Macedonia (ancient kingdom)](https://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)) | [1379462164](https://en.wikipedia.org/w/index.php?oldid=1379462164) |
 | [Machu Picchu](https://en.wikipedia.org/wiki/Machu_Picchu) | [1380992747](https://en.wikipedia.org/w/index.php?oldid=1380992747) |
+| [Magellan expedition](https://en.wikipedia.org/wiki/Magellan_expedition) | [1383451358](https://en.wikipedia.org/w/index.php?oldid=1383451358) |
 | [Mahabodhi Temple](https://en.wikipedia.org/wiki/Mahabodhi_Temple) | [1376910731](https://en.wikipedia.org/w/index.php?oldid=1376910731) |
 | [Majapahit](https://en.wikipedia.org/wiki/Majapahit) | [1380983337](https://en.wikipedia.org/w/index.php?oldid=1380983337) |
 | [Mali Empire](https://en.wikipedia.org/wiki/Mali_Empire) | [1381292469](https://en.wikipedia.org/w/index.php?oldid=1381292469) |
@@ -430,23 +547,28 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | [Mohenjo-daro](https://en.wikipedia.org/wiki/Mohenjo-daro) | [1376909925](https://en.wikipedia.org/w/index.php?oldid=1376909925) |
 | [Mongol Empire](https://en.wikipedia.org/wiki/Mongol_Empire) | [1379969987](https://en.wikipedia.org/w/index.php?oldid=1379969987) |
 | [Montevideo](https://en.wikipedia.org/wiki/Montevideo) | [1377787123](https://en.wikipedia.org/w/index.php?oldid=1377787123) |
+| [Montreal](https://en.wikipedia.org/wiki/Montreal) | [1384390779](https://en.wikipedia.org/w/index.php?oldid=1384390779) |
 | [Mughal Empire](https://en.wikipedia.org/wiki/Mughal_Empire) | [1381588444](https://en.wikipedia.org/w/index.php?oldid=1381588444) |
 | [Mutapa Empire](https://en.wikipedia.org/wiki/Mutapa_Empire) | [1373198822](https://en.wikipedia.org/w/index.php?oldid=1373198822) |
 | [Mycenae](https://en.wikipedia.org/wiki/Mycenae) | [1375201530](https://en.wikipedia.org/w/index.php?oldid=1375201530) |
 | [Nairobi](https://en.wikipedia.org/wiki/Nairobi) | [1380757319](https://en.wikipedia.org/w/index.php?oldid=1380757319) |
 | [Nan Madol](https://en.wikipedia.org/wiki/Nan_Madol) | [1378475574](https://en.wikipedia.org/w/index.php?oldid=1378475574) |
 | [Nazca lines](https://en.wikipedia.org/wiki/Nazca_lines) | [1381580457](https://en.wikipedia.org/w/index.php?oldid=1381580457) |
+| [New Orleans](https://en.wikipedia.org/wiki/New_Orleans) | [1384648065](https://en.wikipedia.org/w/index.php?oldid=1384648065) |
 | [New York City](https://en.wikipedia.org/wiki/New_York_City) | [1381688094](https://en.wikipedia.org/w/index.php?oldid=1381688094) |
 | [Nimrud](https://en.wikipedia.org/wiki/Nimrud) | [1380467098](https://en.wikipedia.org/w/index.php?oldid=1380467098) |
 | [Normandy landings](https://en.wikipedia.org/wiki/Normandy_landings) | [1381721870](https://en.wikipedia.org/w/index.php?oldid=1381721870) |
 | [Numidia](https://en.wikipedia.org/wiki/Numidia) | [1377669518](https://en.wikipedia.org/w/index.php?oldid=1377669518) |
 | [October Revolution](https://en.wikipedia.org/wiki/October_Revolution) | [1379228275](https://en.wikipedia.org/w/index.php?oldid=1379228275) |
+| [Oslo](https://en.wikipedia.org/wiki/Oslo) | [1384418597](https://en.wikipedia.org/w/index.php?oldid=1384418597) |
 | [Ottoman Empire](https://en.wikipedia.org/wiki/Ottoman_Empire) | [1380557792](https://en.wikipedia.org/w/index.php?oldid=1380557792) |
 | [Oyo Empire](https://en.wikipedia.org/wiki/Oyo_Empire) | [1380798108](https://en.wikipedia.org/w/index.php?oldid=1380798108) |
 | [Panama Canal](https://en.wikipedia.org/wiki/Panama_Canal) | [1380576550](https://en.wikipedia.org/w/index.php?oldid=1380576550) |
 | [Paris](https://en.wikipedia.org/wiki/Paris) | [1380227587](https://en.wikipedia.org/w/index.php?oldid=1380227587) |
 | [Peace of Westphalia](https://en.wikipedia.org/wiki/Peace_of_Westphalia) | [1381614707](https://en.wikipedia.org/w/index.php?oldid=1381614707) |
 | [Persepolis](https://en.wikipedia.org/wiki/Persepolis) | [1376731595](https://en.wikipedia.org/w/index.php?oldid=1376731595) |
+| [Plymouth Colony](https://en.wikipedia.org/wiki/Plymouth_Colony) | [1384262231](https://en.wikipedia.org/w/index.php?oldid=1384262231) |
+| [Polish–Lithuanian Commonwealth](https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth) | [1384508614](https://en.wikipedia.org/w/index.php?oldid=1384508614) |
 | [Potosí](https://en.wikipedia.org/wiki/Potos%C3%AD) | [1379332472](https://en.wikipedia.org/w/index.php?oldid=1379332472) |
 | [Poverty Point](https://en.wikipedia.org/wiki/Poverty_Point) | [1370195393](https://en.wikipedia.org/w/index.php?oldid=1370195393) |
 | [Proclamation of the People's Republic of China](https://en.wikipedia.org/wiki/Proclamation_of_the_People%27s_Republic_of_China) | [1381719609](https://en.wikipedia.org/w/index.php?oldid=1381719609) |
@@ -456,18 +578,30 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | [Qing dynasty](https://en.wikipedia.org/wiki/Qing_dynasty) | [1378236005](https://en.wikipedia.org/w/index.php?oldid=1378236005) |
 | [Quebec City](https://en.wikipedia.org/wiki/Quebec_City) | [1381217864](https://en.wikipedia.org/w/index.php?oldid=1381217864) |
 | [Quito](https://en.wikipedia.org/wiki/Quito) | [1380948688](https://en.wikipedia.org/w/index.php?oldid=1380948688) |
+| [Republic of Texas](https://en.wikipedia.org/wiki/Republic_of_Texas) | [1385170750](https://en.wikipedia.org/w/index.php?oldid=1385170750) |
+| [Reykjavík](https://en.wikipedia.org/wiki/Reykjav%C3%ADk) | [1384628283](https://en.wikipedia.org/w/index.php?oldid=1384628283) |
+| [Ribe](https://en.wikipedia.org/wiki/Ribe) | [1378974555](https://en.wikipedia.org/w/index.php?oldid=1378974555) |
+| [Riga](https://en.wikipedia.org/wiki/Riga) | [1383009953](https://en.wikipedia.org/w/index.php?oldid=1383009953) |
 | [Rio de Janeiro](https://en.wikipedia.org/wiki/Rio_de_Janeiro) | [1381378832](https://en.wikipedia.org/w/index.php?oldid=1381378832) |
 | [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire) | [1380363985](https://en.wikipedia.org/w/index.php?oldid=1380363985) |
 | [Roman Republic](https://en.wikipedia.org/wiki/Roman_Republic) | [1380367234](https://en.wikipedia.org/w/index.php?oldid=1380367234) |
 | [Rome](https://en.wikipedia.org/wiki/Rome) | [1379704983](https://en.wikipedia.org/w/index.php?oldid=1379704983) |
+| [Roskilde Cathedral](https://en.wikipedia.org/wiki/Roskilde_Cathedral) | [1379175804](https://en.wikipedia.org/w/index.php?oldid=1379175804) |
 | [Russian Empire](https://en.wikipedia.org/wiki/Russian_Empire) | [1381563817](https://en.wikipedia.org/w/index.php?oldid=1381563817) |
 | [Salvador, Bahia](https://en.wikipedia.org/wiki/Salvador,_Bahia) | [1381062341](https://en.wikipedia.org/w/index.php?oldid=1381062341) |
 | [San Agustín Archaeological Park](https://en.wikipedia.org/wiki/San_Agust%C3%ADn_Archaeological_Park) | [1365739903](https://en.wikipedia.org/w/index.php?oldid=1365739903) |
+| [San Francisco](https://en.wikipedia.org/wiki/San_Francisco) | [1384967769](https://en.wikipedia.org/w/index.php?oldid=1384967769) |
+| [Santa Fe, New Mexico](https://en.wikipedia.org/wiki/Santa_Fe,_New_Mexico) | [1384999087](https://en.wikipedia.org/w/index.php?oldid=1384999087) |
 | [Santiago](https://en.wikipedia.org/wiki/Santiago) | [1379044065](https://en.wikipedia.org/w/index.php?oldid=1379044065) |
 | [Santo Domingo](https://en.wikipedia.org/wiki/Santo_Domingo) | [1380321481](https://en.wikipedia.org/w/index.php?oldid=1380321481) |
 | [Sasanian Empire](https://en.wikipedia.org/wiki/Sasanian_Empire) | [1380663601](https://en.wikipedia.org/w/index.php?oldid=1380663601) |
+| [Second Bulgarian Empire](https://en.wikipedia.org/wiki/Second_Bulgarian_Empire) | [1384639670](https://en.wikipedia.org/w/index.php?oldid=1384639670) |
+| [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks) | [1384421083](https://en.wikipedia.org/w/index.php?oldid=1384421083) |
 | [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) | [1381682769](https://en.wikipedia.org/w/index.php?oldid=1381682769) |
 | [Siege of Jerusalem (1099)](https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)) | [1381568991](https://en.wikipedia.org/w/index.php?oldid=1381568991) |
+| [Siege of Leningrad](https://en.wikipedia.org/wiki/Siege_of_Leningrad) | [1384136217](https://en.wikipedia.org/w/index.php?oldid=1384136217) |
+| [Siege of Yorktown](https://en.wikipedia.org/wiki/Siege_of_Yorktown) | [1384219244](https://en.wikipedia.org/w/index.php?oldid=1384219244) |
+| [Sigtuna](https://en.wikipedia.org/wiki/Sigtuna) | [1376861787](https://en.wikipedia.org/w/index.php?oldid=1376861787) |
 | [Sijilmasa](https://en.wikipedia.org/wiki/Sijilmasa) | [1377241881](https://en.wikipedia.org/w/index.php?oldid=1377241881) |
 | [Silla](https://en.wikipedia.org/wiki/Silla) | [1381135429](https://en.wikipedia.org/w/index.php?oldid=1381135429) |
 | [Skara Brae](https://en.wikipedia.org/wiki/Skara_Brae) | [1378067716](https://en.wikipedia.org/w/index.php?oldid=1378067716) |
@@ -477,11 +611,14 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union) | [1381264162](https://en.wikipedia.org/w/index.php?oldid=1381264162) |
 | [Sparta](https://en.wikipedia.org/wiki/Sparta) | [1381044540](https://en.wikipedia.org/w/index.php?oldid=1381044540) |
 | [Srivijaya](https://en.wikipedia.org/wiki/Srivijaya) | [1381517878](https://en.wikipedia.org/w/index.php?oldid=1381517878) |
+| [St. Augustine, Florida](https://en.wikipedia.org/wiki/St._Augustine,_Florida) | [1382273068](https://en.wikipedia.org/w/index.php?oldid=1382273068) |
+| [Stockholm](https://en.wikipedia.org/wiki/Stockholm) | [1385146892](https://en.wikipedia.org/w/index.php?oldid=1385146892) |
 | [Storming of the Bastille](https://en.wikipedia.org/wiki/Storming_of_the_Bastille) | [1381092559](https://en.wikipedia.org/w/index.php?oldid=1381092559) |
 | [Suez Canal](https://en.wikipedia.org/wiki/Suez_Canal) | [1380827727](https://en.wikipedia.org/w/index.php?oldid=1380827727) |
 | [Sui dynasty](https://en.wikipedia.org/wiki/Sui_dynasty) | [1378031675](https://en.wikipedia.org/w/index.php?oldid=1378031675) |
 | [Sumer](https://en.wikipedia.org/wiki/Sumer) | [1381727036](https://en.wikipedia.org/w/index.php?oldid=1381727036) |
 | [Susa](https://en.wikipedia.org/wiki/Susa) | [1379421648](https://en.wikipedia.org/w/index.php?oldid=1379421648) |
+| [Swedish Empire](https://en.wikipedia.org/wiki/Swedish_Empire) | [1384143502](https://en.wikipedia.org/w/index.php?oldid=1384143502) |
 | [Sydney](https://en.wikipedia.org/wiki/Sydney) | [1381521616](https://en.wikipedia.org/w/index.php?oldid=1381521616) |
 | [São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo) | [1380074514](https://en.wikipedia.org/w/index.php?oldid=1380074514) |
 | [Taj Mahal](https://en.wikipedia.org/wiki/Taj_Mahal) | [1378868244](https://en.wikipedia.org/w/index.php?oldid=1378868244) |
@@ -490,36 +627,48 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | [Tel Megiddo](https://en.wikipedia.org/wiki/Tel_Megiddo) | [1368868775](https://en.wikipedia.org/w/index.php?oldid=1368868775) |
 | [Tenochtitlan](https://en.wikipedia.org/wiki/Tenochtitlan) | [1381591256](https://en.wikipedia.org/w/index.php?oldid=1381591256) |
 | [Teotihuacan](https://en.wikipedia.org/wiki/Teotihuacan) | [1380618636](https://en.wikipedia.org/w/index.php?oldid=1380618636) |
+| [Terra Nova Expedition](https://en.wikipedia.org/wiki/Terra_Nova_Expedition) | [1385057771](https://en.wikipedia.org/w/index.php?oldid=1385057771) |
 | [Terracotta Army](https://en.wikipedia.org/wiki/Terracotta_Army) | [1380487280](https://en.wikipedia.org/w/index.php?oldid=1380487280) |
 | [Tikal](https://en.wikipedia.org/wiki/Tikal) | [1381316604](https://en.wikipedia.org/w/index.php?oldid=1381316604) |
 | [Timbuktu](https://en.wikipedia.org/wiki/Timbuktu) | [1381322433](https://en.wikipedia.org/w/index.php?oldid=1381322433) |
 | [Tiwanaku](https://en.wikipedia.org/wiki/Tiwanaku) | [1380002068](https://en.wikipedia.org/w/index.php?oldid=1380002068) |
 | [Tokugawa shogunate](https://en.wikipedia.org/wiki/Tokugawa_shogunate) | [1378886313](https://en.wikipedia.org/w/index.php?oldid=1378886313) |
 | [Tokyo](https://en.wikipedia.org/wiki/Tokyo) | [1381135708](https://en.wikipedia.org/w/index.php?oldid=1381135708) |
+| [Trinity (nuclear test)](https://en.wikipedia.org/wiki/Trinity_(nuclear_test)) | [1379426945](https://en.wikipedia.org/w/index.php?oldid=1379426945) |
+| [Trondheim](https://en.wikipedia.org/wiki/Trondheim) | [1384452001](https://en.wikipedia.org/w/index.php?oldid=1384452001) |
 | [Troy](https://en.wikipedia.org/wiki/Troy) | [1379991372](https://en.wikipedia.org/w/index.php?oldid=1379991372) |
+| [Tsardom of Russia](https://en.wikipedia.org/wiki/Tsardom_of_Russia) | [1382762635](https://en.wikipedia.org/w/index.php?oldid=1382762635) |
+| [Turku](https://en.wikipedia.org/wiki/Turku) | [1384619965](https://en.wikipedia.org/w/index.php?oldid=1384619965) |
 | [Tu‘i Tonga Empire](https://en.wikipedia.org/wiki/Tu%CA%BBi_Tonga_Empire) | [1375492211](https://en.wikipedia.org/w/index.php?oldid=1375492211) |
 | [Tyre, Lebanon](https://en.wikipedia.org/wiki/Tyre,_Lebanon) | [1380939832](https://en.wikipedia.org/w/index.php?oldid=1380939832) |
 | [Ugarit](https://en.wikipedia.org/wiki/Ugarit) | [1374559696](https://en.wikipedia.org/w/index.php?oldid=1374559696) |
 | [Umayyad Caliphate](https://en.wikipedia.org/wiki/Umayyad_Caliphate) | [1381544341](https://en.wikipedia.org/w/index.php?oldid=1381544341) |
 | [United States Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) | [1379685614](https://en.wikipedia.org/w/index.php?oldid=1379685614) |
 | [Ur](https://en.wikipedia.org/wiki/Ur) | [1380249222](https://en.wikipedia.org/w/index.php?oldid=1380249222) |
+| [Uxmal](https://en.wikipedia.org/wiki/Uxmal) | [1374305186](https://en.wikipedia.org/w/index.php?oldid=1374305186) |
+| [Veliky Novgorod](https://en.wikipedia.org/wiki/Veliky_Novgorod) | [1378809903](https://en.wikipedia.org/w/index.php?oldid=1378809903) |
 | [Viceroyalty of New Granada](https://en.wikipedia.org/wiki/Viceroyalty_of_New_Granada) | [1372148016](https://en.wikipedia.org/w/index.php?oldid=1372148016) |
 | [Viceroyalty of Peru](https://en.wikipedia.org/wiki/Viceroyalty_of_Peru) | [1380392854](https://en.wikipedia.org/w/index.php?oldid=1380392854) |
 | [Viceroyalty of the Río de la Plata](https://en.wikipedia.org/wiki/Viceroyalty_of_the_R%C3%ADo_de_la_Plata) | [1377814914](https://en.wikipedia.org/w/index.php?oldid=1377814914) |
 | [Vijayanagara Empire](https://en.wikipedia.org/wiki/Vijayanagara_Empire) | [1381426478](https://en.wikipedia.org/w/index.php?oldid=1381426478) |
+| [Volga Bulgaria](https://en.wikipedia.org/wiki/Volga_Bulgaria) | [1383914131](https://en.wikipedia.org/w/index.php?oldid=1383914131) |
 | [Volubilis](https://en.wikipedia.org/wiki/Volubilis) | [1377685801](https://en.wikipedia.org/w/index.php?oldid=1377685801) |
 | [Wari Empire](https://en.wikipedia.org/wiki/Wari_Empire) | [1378709077](https://en.wikipedia.org/w/index.php?oldid=1378709077) |
+| [Warsaw Uprising](https://en.wikipedia.org/wiki/Warsaw_Uprising) | [1375822895](https://en.wikipedia.org/w/index.php?oldid=1375822895) |
+| [Washington, D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.) | [1384433238](https://en.wikipedia.org/w/index.php?oldid=1384433238) |
 | [Western Roman Empire](https://en.wikipedia.org/wiki/Western_Roman_Empire) | [1380364273](https://en.wikipedia.org/w/index.php?oldid=1380364273) |
 | [Wright Flyer](https://en.wikipedia.org/wiki/Wright_Flyer) | [1381255274](https://en.wikipedia.org/w/index.php?oldid=1381255274) |
+| [Yalta Conference](https://en.wikipedia.org/wiki/Yalta_Conference) | [1384109592](https://en.wikipedia.org/w/index.php?oldid=1384109592) |
 | [Yuan dynasty](https://en.wikipedia.org/wiki/Yuan_dynasty) | [1379512616](https://en.wikipedia.org/w/index.php?oldid=1379512616) |
 | [Zulu Kingdom](https://en.wikipedia.org/wiki/Zulu_Kingdom) | [1381171525](https://en.wikipedia.org/w/index.php?oldid=1381171525) |
 | [Çatalhöyük](https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk) | [1379818880](https://en.wikipedia.org/w/index.php?oldid=1379818880) |
 | [Ġgantija](https://en.wikipedia.org/wiki/%C4%A0gantija) | [1379287136](https://en.wikipedia.org/w/index.php?oldid=1379287136) |
 
-## Second sources (23)
+## Second sources (28)
 
 | Marker | Source | Page | Accessed |
 |---|---|---|---|
+| Birka and Hovgården | UNESCO World Heritage Centre | [Birka and Hovgården](https://whc.unesco.org/en/list/555/) | 2026-11-12 |
 | Budj Bim | UNESCO World Heritage Centre | [Budj Bim Cultural Landscape](https://whc.unesco.org/en/list/1577/) | 2026-10-24 |
 | Cahokia | UNESCO World Heritage Centre | [Cahokia Mounds State Historic Site](https://whc.unesco.org/en/list/198/) | 2026-10-24 |
 | Caral | UNESCO World Heritage Centre | [Sacred City of Caral-Supe](https://whc.unesco.org/en/list/1269/) | 2026-10-24 |
@@ -528,8 +677,11 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | Djenné | UNESCO World Heritage Centre | [Old Towns of Djenné](https://whc.unesco.org/en/list/116/) | 2026-10-24 |
 | Easter Island | UNESCO World Heritage Centre | [Rapa Nui National Park](https://whc.unesco.org/en/list/715/) | 2026-10-24 |
 | Great Zimbabwe | UNESCO World Heritage Centre | [Great Zimbabwe National Monument](https://whc.unesco.org/en/list/364/) | 2026-10-24 |
+| Hedeby | UNESCO World Heritage Centre | [Archaeological Border complex of Hedeby and the Danevirke](https://whc.unesco.org/en/list/1553/) | 2026-11-12 |
 | Huaca Prieta | Encyclopaedia Britannica | [Huaca Prieta](https://www.britannica.com/place/Huaca-Prieta) | 2026-10-24 |
+| Jelling stones | UNESCO World Heritage Centre | [Jelling Mounds, Runic Stones and Church](https://whc.unesco.org/en/list/697/) | 2026-11-12 |
 | Knossos | Encyclopaedia Britannica | [Knossos](https://www.britannica.com/place/Knossos) | 2026-10-24 |
+| Kujataa | UNESCO World Heritage Centre | [Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap](https://whc.unesco.org/en/list/1536/) | 2026-11-12 |
 | Kuk Swamp | UNESCO World Heritage Centre | [Kuk Early Agricultural Site](https://whc.unesco.org/en/list/887/) | 2026-10-24 |
 | L'Anse aux Meadows | UNESCO World Heritage Centre | [L'Anse aux Meadows National Historic Site](https://whc.unesco.org/en/list/4/) | 2026-10-24 |
 | La Venta | Encyclopaedia Britannica | [La Venta](https://www.britannica.com/place/La-Venta) | 2026-10-24 |
@@ -543,3 +695,4 @@ Wikipedia contributors, CC BY-SA 4.0. Cut to whole sentences, bracketed asides l
 | Teotihuacan | UNESCO World Heritage Centre | [Pre-Hispanic City of Teotihuacan](https://whc.unesco.org/en/list/414/) | 2026-10-24 |
 | Tikal | UNESCO World Heritage Centre | [Tikal National Park](https://whc.unesco.org/en/list/64/) | 2026-10-24 |
 | Timbuktu | Encyclopaedia Britannica | [Timbuktu](https://www.britannica.com/place/Timbuktu-Mali) | 2026-10-24 |
+| Uxmal | UNESCO World Heritage Centre | [Pre-Hispanic Town of Uxmal](https://whc.unesco.org/en/list/791/) | 2026-11-12 |
