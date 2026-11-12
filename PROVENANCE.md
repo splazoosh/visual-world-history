@@ -6,9 +6,8 @@ is the application's data pack; the rows after the first table are its contents.
 
 | Item | Origin | Licence |
 |---|---|---|
-| `index.html`, the application's scripts, shader, scenes and theme, `LICENSE`, `NOTICES.txt`, `PROVENANCE.md`, `README.md`, `.nojekyll` | Written for this site; `index.html` from Godot's Web shell | MIT (`LICENSE`); the shell is under Godot's licence |
+| `index.html`, `index.png`, `index.icon.png`, `index.apple-touch-icon.png`, the application's scripts, shader, scenes and theme, `NOTICES.txt`, `PROVENANCE.md`, `README.md`, `.nojekyll` | Written for this site; `index.html` from Godot's Web shell | The shell is under Godot's licence |
 | `index.wasm`, `index.js`, `index.audio.worklet.js`, `index.audio.position.worklet.js` | Godot Engine 4.6.2 official Web template, unmodified, with its bundled components and the Emscripten runtime | MIT and the licences in `NOTICES.txt` |
-| `index.png`, `index.icon.png`, `index.apple-touch-icon.png` | Godot Engine logo, Andrea Calabró | CC BY 4.0 |
 | Interface font (inside `index.wasm`) | Open Sans, The Open Sans Project Authors | SIL OFL 1.1 |
 | Population to 2015 (73 frames) | Modified from: C.G.M. Klein Goldewijk, 2017, "Anthropogenic land-use estimates for the Holocene; HYDE 3.2", https://doi.org/10.17026/DANS-25G-GEZ3, DANS Data Station Archaeology, V2, UNF:6:awlkxWQCVLO/LImWDWVc8Q== [fileUNF] | Creative Commons Attribution 3.0 (conservative treatment of deposited README; the DANS record says CC0-1.0) |
 | Population 1975–2025 (11 frames) | Modified from: Schiavina, Marcello; Freire, Sergio; Alessandra Carioli; MacManus, Kytt (2026): GHS-POP R2023A - GHS population grid multitemporal (1975-2030). European Commission, Joint Research Centre [Dataset] doi: 10.2905/JRC.CXKEDRR; 10.2905/2FF68A52-5B5B-4A22-8F40-C41DA8332CFE PID: http://data.europa.eu/89h/2ff68a52-5b5b-4a22-8f40-c41da8332cfe | Creative Commons Attribution 4.0 |
